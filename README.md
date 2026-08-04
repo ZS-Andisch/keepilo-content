@@ -1,4 +1,4 @@
-# SurvivalApp — Inhalte
+# Keepilo — Inhalte
 
 Inhaltspakete und Download-Manifest für die SurvivalApp. Die App lädt von
 hier nur über die Release-Assets und `manifest.json` — dieses Repo ist kein
