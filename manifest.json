@@ -98,13 +98,15 @@
       "license": "BBK, amtliche Publikation"
     },
     {
-      "id": "off-de-v1.sqlite",
+      "id": "off-v1.sqlite",
       "kind": "openFoodFacts",
       "title": "Barcode-Daten (Open Food Facts)",
-      "url": "https://github.com/ZS-Andisch/keepilo-content/releases/download/off-v1/off-de-v1.sqlite",
+      "url": "https://github.com/ZS-Andisch/keepilo-content/releases/download/off-v1/off-v1.sqlite",
       "version": "1",
-      "note": "Nur für den Barcode-Scan · Daten: Open Food Facts, ODbL",
-      "license": "Open Database License (ODbL) 1.0"
+      "note": "528.423 lagerfähige Produkte weltweit · Daten: Open Food Facts, ODbL",
+      "license": "Open Database License (ODbL) 1.0",
+      "bytes": 42758144,
+      "sha256": "ed7a815f899cfac5019ec85c99954fe8cb7b92c8e07e2df4bba767e8f35e8e30"
     }
   ]
 }
