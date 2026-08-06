@@ -29,7 +29,13 @@
     "",
     "Das openFoodFacts-Paket baut tools/build_off_pack.dart aus dem OFF-Dump.",
     "Größe und Prüfsumme fehlen hier bewusst, solange es nicht gebaut und",
-    "hochgeladen ist — das Tool druckt beides fertig zum Einsetzen."
+    "hochgeladen ist — das Tool druckt beides fertig zum Einsetzen.",
+    "",
+    "Kartenpakete (docs/17, docs/19): mapAssets ist das gemeinsame Paket mit",
+    "Schriften und Symbolen, mapRegion je Gebiet eine PMTiles-Datei. Sie",
+    "liegen im Hetzner Object Storage in Helsinki, geschnitten aus dem",
+    "Protomaps-Build vom 2026-08-05 mit `pmtiles extract`. Neue Fassung =",
+    "neuer Dateiname (-v2), nie dieselbe Datei überschreiben."
   ],
   "schema": 1,
   "assets": [
@@ -107,6 +113,39 @@
       "license": "Open Database License (ODbL) 1.0",
       "bytes": 42758144,
       "sha256": "ed7a815f899cfac5019ec85c99954fe8cb7b92c8e07e2df4bba767e8f35e8e30"
+    },
+    {
+      "id": "karten-assets-v1.zip",
+      "kind": "mapAssets",
+      "title": "Kartenschriften und Symbole",
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/karten-assets-v1.zip",
+      "bytes": 6318077,
+      "sha256": "a243cd7fbc0df7f4ad1afb92a2ea9ba1809229b730c035e09ae02a5be83ea1e5",
+      "version": "1",
+      "note": "Einmal laden, gilt für alle Kartenregionen · ohne das Paket zeigt die Karte keine Ortsnamen",
+      "license": "Noto Sans: SIL Open Font License 1.1"
+    },
+    {
+      "id": "deutschland-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Deutschland",
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/deutschland-v1.pmtiles",
+      "bytes": 3437033833,
+      "sha256": "3e68e40631ef8439b88a95a352517bff98366bef4b5b5b7a40d62c2dbdd02d25",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "dach-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Deutschland, Österreich, Schweiz",
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/dach-v1.pmtiles",
+      "bytes": 4862865723,
+      "sha256": "f913d652412d1407b4738ff01488761c9f1d52caa649d7f9428f2f0efa953368",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
     }
   ]
 }
