@@ -126,12 +126,106 @@
       "license": "Noto Sans: SIL Open Font License 1.1"
     },
     {
-      "id": "albanien-v1.pmtiles",
+      "id": "afghanistan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Afghanistan",
+      "titles": {
+        "de": "Karte Afghanistan",
+        "en": "Map Afghanistan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/afghanistan-v1.pmtiles",
+      "bytes": 121579559,
+      "sha256": "de1089e68b0ae9967ca0bcdd722878fe0f191447a5f457fa8c08bc7135526cbe",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "akrotiri-sovereign-base-area-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Akrotiri",
+      "titles": {
+        "de": "Karte Akrotiri",
+        "en": "Map Akrotiri Sovereign Base Area"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/akrotiri-sovereign-base-area-v1.pmtiles",
+      "bytes": 1647584,
+      "sha256": "6dfd8f5f2b9068829ce1a6a13db05d745a94e3526a2b4d10e1122a248bbe914c",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "albania-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Albanien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/albanien-v1.pmtiles",
-      "bytes": 77443072,
-      "sha256": "947bc8e89efe1629bef6b14edb8b7721d74b3bda619009ec2466ad31677a8db2",
+      "titles": {
+        "de": "Karte Albanien",
+        "en": "Map Albania"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/albania-v1.pmtiles",
+      "bytes": 49768079,
+      "sha256": "83c5192faba419cfdae7ffdd56676d9d9e02272b04b796fa3117cc1aeab672c5",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "algeria-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Algerien",
+      "titles": {
+        "de": "Karte Algerien",
+        "en": "Map Algeria"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/algeria-v1.pmtiles",
+      "bytes": 220079385,
+      "sha256": "9d6616679b446c03a96346036a7645e84dd58ddc557c49c622fdebb4a0ac7ca5",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "american-samoa-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Amerikanisch-Samoa",
+      "titles": {
+        "de": "Karte Amerikanisch-Samoa",
+        "en": "Map American Samoa"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/american-samoa-v1.pmtiles",
+      "bytes": 172662,
+      "sha256": "cf7f5f677b0b4e1785a319dcaa7d25c5d04118c511d1ea750488be214ad8165d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "american-samoa-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Amerikanisch-Samoa (West)",
+      "titles": {
+        "de": "Karte Amerikanisch-Samoa (West)",
+        "en": "Map American Samoa (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/american-samoa-west-v1.pmtiles",
+      "bytes": 698234,
+      "sha256": "12f16f75be8967aef2597cf3d3229488c3b9ce017b9ead9882d2db0255363c45",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "united-states-virgin-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Amerikanische Jungferninseln",
+      "titles": {
+        "de": "Karte Amerikanische Jungferninseln",
+        "en": "Map United States Virgin Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/united-states-virgin-islands-v1.pmtiles",
+      "bytes": 1877427,
+      "sha256": "64cf15fe798eb0608f063a8e2171b2e0b17ae097e291db79bbb1fb8621d0c39a",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -140,163 +234,1543 @@
       "id": "andorra-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Andorra",
+      "titles": {
+        "de": "Karte Andorra",
+        "en": "Map Andorra"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/andorra-v1.pmtiles",
-      "bytes": 5243079,
-      "sha256": "052ef2159cc65d2475652b849b600730b4144ee98e951afa78957a727e05d231",
+      "bytes": 4118485,
+      "sha256": "3b186c331cbe8cb20e664b5a341ea10d313f2a18f475b896b3dac2aa314875ab",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "weissrussland-v1.pmtiles",
+      "id": "angola-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Angola",
+      "titles": {
+        "de": "Karte Angola",
+        "en": "Map Angola"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/angola-v1.pmtiles",
+      "bytes": 118949859,
+      "sha256": "ccab0e763dd78cdb81d8bbef89a16d06ee8e86d3bf253ebf88b90e1cc4432289",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "anguilla-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Anguilla",
+      "titles": {
+        "de": "Karte Anguilla",
+        "en": "Map Anguilla"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/anguilla-v1.pmtiles",
+      "bytes": 779340,
+      "sha256": "e55c96a89d10eff4d9527835a06a7b11265a62149986e31d13117a3a7a5da2cb",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "antigua-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Antigua",
+      "titles": {
+        "de": "Karte Antigua",
+        "en": "Map Antigua"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/antigua-v1.pmtiles",
+      "bytes": 1351958,
+      "sha256": "7f48061440646b934a27e037afcb56d609c91981045c79dbb5de65c3763fddf7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "argentina-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Argentinien",
+      "titles": {
+        "de": "Karte Argentinien",
+        "en": "Map Argentina"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/argentina-v1.pmtiles",
+      "bytes": 599458191,
+      "sha256": "6292bf620155c99a8c35177d503566532e8b120889081f431c57ce55df399f92",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "armenia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Armenien",
+      "titles": {
+        "de": "Karte Armenien",
+        "en": "Map Armenia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/armenia-v1.pmtiles",
+      "bytes": 47382043,
+      "sha256": "9aa9700192e5751c1b4f597e1a60043fd168f471e5a285c4793f836d25c1e5a0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "aruba-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Aruba",
+      "titles": {
+        "de": "Karte Aruba",
+        "en": "Map Aruba"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/aruba-v1.pmtiles",
+      "bytes": 1715118,
+      "sha256": "c408f9c2d5e4359979ab7f050a3ff661aad4bfc945a648e600029a93c4e2c631",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "azerbaijan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Aserbaidschan",
+      "titles": {
+        "de": "Karte Aserbaidschan",
+        "en": "Map Azerbaijan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/azerbaijan-v1.pmtiles",
+      "bytes": 62653583,
+      "sha256": "f04cb50159dbd6c5265f8bf25fe3986d966ad03e16ae614c6f0e3306260c4631",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "australia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Australien",
+      "titles": {
+        "de": "Karte Australien",
+        "en": "Map Australia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/australia-v1.pmtiles",
+      "bytes": 1002558752,
+      "sha256": "757fe32378e112a2fb9f0d417b1343b934ca2053361b9771650f12c3ad8fc394",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "madeira-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Autonome Region Madeira",
+      "titles": {
+        "de": "Karte Autonome Region Madeira",
+        "en": "Map Madeira"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/madeira-v1.pmtiles",
+      "bytes": 5216225,
+      "sha256": "0febbbe002d47f6a447e73a75bf732153cd74b8aa3329c43368890284413221a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "azores-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Azoren",
+      "titles": {
+        "de": "Karte Azoren",
+        "en": "Map Azores"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/azores-v1.pmtiles",
+      "bytes": 12022958,
+      "sha256": "3c09c4f2baf2eadd22a3588137787fc8f62561713333fcfd99fd68f93f358926",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "the-bahamas-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Bahamas",
+      "titles": {
+        "de": "Karte Bahamas",
+        "en": "Map The Bahamas"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/the-bahamas-v1.pmtiles",
+      "bytes": 11098017,
+      "sha256": "ef144c6a0eb1e0c574c0c6e7e0ebcf733bd16120a5e6f0e0319279d09daf1176",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "bahrain-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Bahrain",
+      "titles": {
+        "de": "Karte Bahrain",
+        "en": "Map Bahrain"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bahrain-v1.pmtiles",
+      "bytes": 3789025,
+      "sha256": "a1f4c2b391d13b443ba4cce60873c826733990c6fb7542715ae53e8351dd8181",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "bangladesh-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Bangladesch",
+      "titles": {
+        "de": "Karte Bangladesch",
+        "en": "Map Bangladesh"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bangladesh-v1.pmtiles",
+      "bytes": 121346970,
+      "sha256": "12794e21b12c45022c58f65b5b9a4650528c5bc4e14d9fabe829d66128b2ea76",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "barbados-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Barbados",
+      "titles": {
+        "de": "Karte Barbados",
+        "en": "Map Barbados"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/barbados-v1.pmtiles",
+      "bytes": 2739685,
+      "sha256": "749d68caec56c777958866e66d6fcae87be4214672159af51bb9910925ebc011",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "barbuda-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Barbuda",
+      "titles": {
+        "de": "Karte Barbuda",
+        "en": "Map Barbuda"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/barbuda-v1.pmtiles",
+      "bytes": 526213,
+      "sha256": "0af1bc6ca61252b93bf018f24c0b3ab9f9314213d40e5f0fdc5ee886b7eed432",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "belarus-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Belarus",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/weissrussland-v1.pmtiles",
-      "bytes": 716044847,
-      "sha256": "e74744de1a434fc0fbd83cfab8d27d2e7f9aefbdff495a3234e3270a06064f61",
+      "titles": {
+        "de": "Karte Belarus",
+        "en": "Map Belarus"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/belarus-v1.pmtiles",
+      "bytes": 421781488,
+      "sha256": "22d52b6768428df6b895d3588a3dbc399086b29fe56b13effaf6b4292c1a4a19",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "belgien-v1.pmtiles",
+      "id": "belize-v1.pmtiles",
       "kind": "mapRegion",
-      "title": "Karte Belgien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/belgien-v1.pmtiles",
-      "bytes": 553825654,
-      "sha256": "2d3b2c55db993130f2f9bd7da14b9a1c5dd83f5e1ae1b21d7b69a04994b1124b",
+      "title": "Karte Belize",
+      "titles": {
+        "de": "Karte Belize",
+        "en": "Map Belize"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/belize-v1.pmtiles",
+      "bytes": 28989998,
+      "sha256": "417daa5139627ad30a1bf08638f25d6a10bf78cd8cd7f65fde19b1f1794d3a11",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "bosnien-herzegowina-v1.pmtiles",
+      "id": "benin-v1.pmtiles",
       "kind": "mapRegion",
-      "title": "Karte Bosnien und Herzegowina",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bosnien-herzegowina-v1.pmtiles",
-      "bytes": 255282822,
-      "sha256": "90e3be235ab8383e03ad46d2f8c725b5b230c029fe1357207d654c753528d792",
+      "title": "Karte Benin",
+      "titles": {
+        "de": "Karte Benin",
+        "en": "Map Benin"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/benin-v1.pmtiles",
+      "bytes": 29988752,
+      "sha256": "a62b333a1f95ff9e63c3c64b5d940b2287c72ca7a724607ffea2c42c56664403",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "bulgarien-v1.pmtiles",
+      "id": "bermuda-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Bermuda",
+      "titles": {
+        "de": "Karte Bermuda",
+        "en": "Map Bermuda"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bermuda-v1.pmtiles",
+      "bytes": 1293670,
+      "sha256": "5d566f28286e451c75f5a19463ed73cb86e4736fafaff6e08e9c442f34cf4faa",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "bhutan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Bhutan",
+      "titles": {
+        "de": "Karte Bhutan",
+        "en": "Map Bhutan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bhutan-v1.pmtiles",
+      "bytes": 32153264,
+      "sha256": "a3c617a6f369cf874625904daad31483fc5d396b033cabae85b5c9ba908fe42e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "bolivia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Bolivien",
+      "titles": {
+        "de": "Karte Bolivien",
+        "en": "Map Bolivia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bolivia-v1.pmtiles",
+      "bytes": 211914098,
+      "sha256": "da4d68e353230ae47354766f5f3c60b71550703e43f9e481999d34add2b2dc0b",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "botswana-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Botswana",
+      "titles": {
+        "de": "Karte Botswana",
+        "en": "Map Botswana"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/botswana-v1.pmtiles",
+      "bytes": 57318548,
+      "sha256": "7d6778182a85a13e33081476c2cca064bc8b92d7308593209a27ec51b844d38e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "brazil-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Brasilien",
+      "titles": {
+        "de": "Karte Brasilien",
+        "en": "Map Brazil"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/brazil-v1.pmtiles",
+      "bytes": 2139277397,
+      "sha256": "a3d80392d72833d1865e2306d46d31a32d9be95dbe5a76bb6e8937f99f066d57",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "british-virgin-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Britische Jungferninseln",
+      "titles": {
+        "de": "Karte Britische Jungferninseln",
+        "en": "Map British Virgin Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/british-virgin-islands-v1.pmtiles",
+      "bytes": 976973,
+      "sha256": "7a462a913ebf53a9c0066451b701ed9d30544d90bf9d6f3f21beb9be385d8a03",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "british-indian-ocean-territory-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Britisches Territorium im Indischen Ozean",
+      "titles": {
+        "de": "Karte Britisches Territorium im Indischen Ozean",
+        "en": "Map British Indian Ocean Territory"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/british-indian-ocean-territory-v1.pmtiles",
+      "bytes": 383242,
+      "sha256": "e34eaa6dae833001692584da2d87105e9805ab3808095801fb741499e0b8cd55",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "brunei-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Brunei",
+      "titles": {
+        "de": "Karte Brunei",
+        "en": "Map Brunei"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/brunei-v1.pmtiles",
+      "bytes": 4607151,
+      "sha256": "5cea544e4eba0496b077afe03ed32c31987e45011d287cf91fef15fe79fae790",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "bulgaria-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Bulgarien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bulgarien-v1.pmtiles",
-      "bytes": 254662696,
-      "sha256": "5559d94c67972bdbb8eb64c1890b25409e8b8dcde9e16b717068af7f61fef887",
+      "titles": {
+        "de": "Karte Bulgarien",
+        "en": "Map Bulgaria"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/bulgaria-v1.pmtiles",
+      "bytes": 198350336,
+      "sha256": "d640851971c88dd720fa94fe069504de8071d72e66c3918ba0eb99391a51b041",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "deutschland-v1.pmtiles",
+      "id": "burkina-faso-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Burkina Faso",
+      "titles": {
+        "de": "Karte Burkina Faso",
+        "en": "Map Burkina Faso"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/burkina-faso-v1.pmtiles",
+      "bytes": 79204686,
+      "sha256": "95a7bf2cd71e9b210e6ddfb336fed79afc32adaa42b038a6796049f4ddcfdd13",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "burundi-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Burundi",
+      "titles": {
+        "de": "Karte Burundi",
+        "en": "Map Burundi"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/burundi-v1.pmtiles",
+      "bytes": 28413663,
+      "sha256": "176740d2925f0b278bee5329befdf891d42f0104bcdaff598b6994cf9a50016f",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cayman-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Cayman Islands",
+      "titles": {
+        "de": "Karte Cayman Islands",
+        "en": "Map Cayman Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cayman-islands-v1.pmtiles",
+      "bytes": 1272803,
+      "sha256": "7aa3e424981ece369a9a38a8da77cdb64d79cd0b4c8a8e5eb7f58a381d69361d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "chile-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Chile",
+      "titles": {
+        "de": "Karte Chile",
+        "en": "Map Chile"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/chile-v1.pmtiles",
+      "bytes": 323895348,
+      "sha256": "f7dad22f4fca5a9016189620a1b27371f1c39e90510f3ae0c46236ab059afdf0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cook-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Cookinseln",
+      "titles": {
+        "de": "Karte Cookinseln",
+        "en": "Map Cook Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cook-islands-v1.pmtiles",
+      "bytes": 642493,
+      "sha256": "35fb64d5961f2b2268810a3956548475862867a40106bfad859d088b0298e5c9",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "costa-rica-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Costa Rica",
+      "titles": {
+        "de": "Karte Costa Rica",
+        "en": "Map Costa Rica"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/costa-rica-v1.pmtiles",
+      "bytes": 42487130,
+      "sha256": "1a09f3c3df637f6e73a8e0c9c8afb6923866134a2fba6be7c64fde29875ea0bb",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cura-ao-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Curaçao",
+      "titles": {
+        "de": "Karte Curaçao",
+        "en": "Map Curaçao"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cura-ao-v1.pmtiles",
+      "bytes": 2602971,
+      "sha256": "e6a598775e16c179d452db2a4ff2fad4fcdcd94e2e9363448e5ade9455305e0b",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "dhekelia-cantonment-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Dekelia",
+      "titles": {
+        "de": "Karte Dekelia",
+        "en": "Map Dhekelia Cantonment"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/dhekelia-cantonment-v1.pmtiles",
+      "bytes": 1876628,
+      "sha256": "bb127a7570fe9848a243cfefa24cffc2b4b8eefbe0781c0e3f6055f1186c1439",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "democratic-republic-of-the-congo-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Demokratische Republik Kongo",
+      "titles": {
+        "de": "Karte Demokratische Republik Kongo",
+        "en": "Map Democratic Republic of the Congo"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/democratic-republic-of-the-congo-v1.pmtiles",
+      "bytes": 404340437,
+      "sha256": "76790c8c47f119bb6409d13db4b42e6860b0f389011d5c3d7ab8ed71f7d7bee1",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "germany-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Deutschland",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/deutschland-v1.pmtiles",
-      "bytes": 3437033833,
-      "sha256": "3e68e40631ef8439b88a95a352517bff98366bef4b5b5b7a40d62c2dbdd02d25",
+      "titles": {
+        "de": "Karte Deutschland",
+        "en": "Map Germany"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/germany-v1.pmtiles",
+      "bytes": 2512222383,
+      "sha256": "885946980c845597d1ff0970bd5de65e3a7456fb300916e06e152f437ef16a7c",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "dach-v1.pmtiles",
+      "id": "dominica-v1.pmtiles",
       "kind": "mapRegion",
-      "title": "Karte Deutschland, Österreich, Schweiz",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/dach-v1.pmtiles",
-      "bytes": 4862865723,
-      "sha256": "f913d652412d1407b4738ff01488761c9f1d52caa649d7f9428f2f0efa953368",
+      "title": "Karte Dominica",
+      "titles": {
+        "de": "Karte Dominica",
+        "en": "Map Dominica"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/dominica-v1.pmtiles",
+      "bytes": 1850973,
+      "sha256": "36a6b250ee1b96c0d9dcb5ac0ee93cd4fc926dfbfffb4ab33d7171c439f82925",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "daenemark-v1.pmtiles",
+      "id": "dominican-republic-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Dominikanische Republik",
+      "titles": {
+        "de": "Karte Dominikanische Republik",
+        "en": "Map Dominican Republic"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/dominican-republic-v1.pmtiles",
+      "bytes": 26124132,
+      "sha256": "040d55a1c94ea7b4cb17cbdb45b2078384c840993c2b3e171cb52aa0a46bcaed",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "djibouti-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Dschibuti",
+      "titles": {
+        "de": "Karte Dschibuti",
+        "en": "Map Djibouti"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/djibouti-v1.pmtiles",
+      "bytes": 5489492,
+      "sha256": "ce9bc5ddcc72844639f672da2766a7959cb3e964e93ad721c07ff81fbfbd2712",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "denmark-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Dänemark",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/daenemark-v1.pmtiles",
-      "bytes": 453590071,
-      "sha256": "174ad01ac715b67696fd1a1cb6408f145c74183da02b3e0af2ed5d90ad4a52f6",
+      "titles": {
+        "de": "Karte Dänemark",
+        "en": "Map Denmark"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/denmark-v1.pmtiles",
+      "bytes": 284047163,
+      "sha256": "1bf56a6687478e3a49f019547da567b78da09e1385d511a423c4e2bddc4dc442",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "estland-v1.pmtiles",
+      "id": "ecuador-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Ecuador",
+      "titles": {
+        "de": "Karte Ecuador",
+        "en": "Map Ecuador"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/ecuador-v1.pmtiles",
+      "bytes": 101370814,
+      "sha256": "78fc2552fbe1f21b86656facdaf7cdad03a10c077668df8a3a056343f73ae2c9",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "el-salvador-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte El Salvador",
+      "titles": {
+        "de": "Karte El Salvador",
+        "en": "Map El Salvador"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/el-salvador-v1.pmtiles",
+      "bytes": 21688648,
+      "sha256": "41930a46aa9e707d624bcd66feb0e386838635bc981b86ae5c1c4003b73aedb4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "ivory-coast-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Elfenbeinküste",
+      "titles": {
+        "de": "Karte Elfenbeinküste",
+        "en": "Map Ivory Coast"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/ivory-coast-v1.pmtiles",
+      "bytes": 83713396,
+      "sha256": "7c517bf923d49e083ba9d14bbd8a091c11c9b4d643745d929d5186c078c7db23",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "eritrea-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Eritrea",
+      "titles": {
+        "de": "Karte Eritrea",
+        "en": "Map Eritrea"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/eritrea-v1.pmtiles",
+      "bytes": 21368137,
+      "sha256": "708a6070cac2497a17bb3567a136e0ea46224fac45c2b88a5f6bafc1eeb8165e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "estonia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Estland",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/estland-v1.pmtiles",
-      "bytes": 145231363,
-      "sha256": "c1d6220ac19158eb3a03328d0ed88be05afc45a2a085f444ce8f06ab474a5207",
+      "titles": {
+        "de": "Karte Estland",
+        "en": "Map Estonia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/estonia-v1.pmtiles",
+      "bytes": 117291497,
+      "sha256": "9c1a456543edd7adb784c0d7c85b396dfd160dd7bf562f006c442fbb2bf19a64",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "finnland-v1.pmtiles",
+      "id": "eswatini-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Eswatini",
+      "titles": {
+        "de": "Karte Eswatini",
+        "en": "Map Eswatini"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/eswatini-v1.pmtiles",
+      "bytes": 14575767,
+      "sha256": "85b5fd1c6206376659811d6e94c198f59fa1076b6f9ff76292ee0fe0ce0c7789",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "falkland-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Falklandinseln",
+      "titles": {
+        "de": "Karte Falklandinseln",
+        "en": "Map Falkland Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/falkland-islands-v1.pmtiles",
+      "bytes": 8487736,
+      "sha256": "2abcec1b754180d110640e9fb831d6100858f81ce3077355480d8f3984fae46f",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "fiji-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Fidschi (Ost)",
+      "titles": {
+        "de": "Karte Fidschi (Ost)",
+        "en": "Map Fiji (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/fiji-ost-v1.pmtiles",
+      "bytes": 10422942,
+      "sha256": "7cef8078d0c74af1884afa829b0ebe16556b10c4d6c3c86fab4919355f1c27f2",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "fiji-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Fidschi (West)",
+      "titles": {
+        "de": "Karte Fidschi (West)",
+        "en": "Map Fiji (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/fiji-west-v1.pmtiles",
+      "bytes": 737389,
+      "sha256": "ece6d8862c88c49b9232b9dbb7735c7f5d6133f59665791bdfc9d3693fdbee62",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "finland-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Finnland",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/finnland-v1.pmtiles",
-      "bytes": 1341536135,
-      "sha256": "9bc523bcf8b55897bb07da5a58cc34a97eb7af6116c6e83588f0932aa830355c",
+      "titles": {
+        "de": "Karte Finnland",
+        "en": "Map Finland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/finland-v1.pmtiles",
+      "bytes": 931982488,
+      "sha256": "15e40f776b496cebd4b900dc77e5eb571ba9ee6c0fe0206fbecd448c79e68491",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "frankreich-v1.pmtiles",
+      "id": "france-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Frankreich",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/frankreich-v1.pmtiles",
-      "bytes": 4422182963,
-      "sha256": "90eda185aad6c17523c6b164c67ffea7a4a36d85d396c800c1d169e0c37df5d0",
+      "titles": {
+        "de": "Karte Frankreich",
+        "en": "Map France"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/france-v1.pmtiles",
+      "bytes": 2471335613,
+      "sha256": "db254ed4938ff690fc897c7dd5ae772b942d5f5fb374205a29be85eae9606f40",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "griechenland-v1.pmtiles",
+      "id": "french-guiana-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Französisch-Guayana",
+      "titles": {
+        "de": "Karte Französisch-Guayana",
+        "en": "Map French Guiana"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/french-guiana-v1.pmtiles",
+      "bytes": 17112603,
+      "sha256": "c51cda77d5f10f75f4c83d66bfd038d78c7de71e5d052df00a7594085477aec0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "french-polynesia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Französisch-Polynesien",
+      "titles": {
+        "de": "Karte Französisch-Polynesien",
+        "en": "Map French Polynesia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/french-polynesia-v1.pmtiles",
+      "bytes": 6666805,
+      "sha256": "db036fcf7d63bd3fc6f94a6319005654a4d640cdcf81ada4826095d1d7329104",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "french-southern-and-antarctic-lands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Französische Süd- und Antarktisgebiete",
+      "titles": {
+        "de": "Karte Französische Süd- und Antarktisgebiete",
+        "en": "Map French Southern and Antarctic Lands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/french-southern-and-antarctic-lands-v1.pmtiles",
+      "bytes": 7093164,
+      "sha256": "1090bbbfbadc2b76a699f59c0395e66d71bd1c1a9cd08c45cfb02923cca6cecd",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "faroe-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Färöer",
+      "titles": {
+        "de": "Karte Färöer",
+        "en": "Map Faroe Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/faroe-islands-v1.pmtiles",
+      "bytes": 6861770,
+      "sha256": "444af03f48491b77510a30bd3d2460b91c8b31e57c8ffbdf1bdd2cb22b90bb49",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "federated-states-of-micronesia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Föderierte Staaten von Mikronesien",
+      "titles": {
+        "de": "Karte Föderierte Staaten von Mikronesien",
+        "en": "Map Federated States of Micronesia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/federated-states-of-micronesia-v1.pmtiles",
+      "bytes": 1559095,
+      "sha256": "5d51d1f3421d9ad52adeb9826eb80ec0a83b720448307cc896d3dddf4a6930ca",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "gabon-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Gabun",
+      "titles": {
+        "de": "Karte Gabun",
+        "en": "Map Gabon"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/gabon-v1.pmtiles",
+      "bytes": 41856747,
+      "sha256": "08462b76c520c811a653bea0f26fc6677688740c61eb43356d283cc71de42f32",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "the-gambia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Gambia",
+      "titles": {
+        "de": "Karte Gambia",
+        "en": "Map The Gambia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/the-gambia-v1.pmtiles",
+      "bytes": 11412605,
+      "sha256": "9578ce2435038c06a471cf94047cc2bcdfd6f340e4f4d8fdfe445ce21c7cebeb",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "georgia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Georgien",
+      "titles": {
+        "de": "Karte Georgien",
+        "en": "Map Georgia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/georgia-v1.pmtiles",
+      "bytes": 106022387,
+      "sha256": "a8bf556d51a501c6c2bb9e7951df644913486138b07ca0c04362ffe57509ac5e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "ghana-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Ghana",
+      "titles": {
+        "de": "Karte Ghana",
+        "en": "Map Ghana"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/ghana-v1.pmtiles",
+      "bytes": 70380152,
+      "sha256": "a47b343d103022ace72b9e12cba2bd80e1e5ad8ca80a201c79bdeab1ac507c4d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "grenada-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Grenada",
+      "titles": {
+        "de": "Karte Grenada",
+        "en": "Map Grenada"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/grenada-v1.pmtiles",
+      "bytes": 1401026,
+      "sha256": "214e2d2160494dda6c42b1d8fc81fc199bbbea02339858e7f049ba6cb9d21f1b",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "greece-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Griechenland",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/griechenland-v1.pmtiles",
-      "bytes": 425268098,
-      "sha256": "961ca05d02a3b6c611bc9535819852b6a4838e6bacc478ddbe64ac482a19723d",
+      "titles": {
+        "de": "Karte Griechenland",
+        "en": "Map Greece"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/greece-v1.pmtiles",
+      "bytes": 259032178,
+      "sha256": "0cfaefadf6c1d3d6d96d0c5b827568330598442238d42622611a64666c182c48",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "irland-v1.pmtiles",
+      "id": "greenland-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Grönland",
+      "titles": {
+        "de": "Karte Grönland",
+        "en": "Map Greenland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/greenland-v1.pmtiles",
+      "bytes": 171680294,
+      "sha256": "19f581fcae0d9d4eb2e3360e01872b2bbf1917f1826e2220e3c3ef9beaeb7e39",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guadeloupe-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guadeloupe",
+      "titles": {
+        "de": "Karte Guadeloupe",
+        "en": "Map Guadeloupe"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guadeloupe-v1.pmtiles",
+      "bytes": 6916556,
+      "sha256": "cbb5260c900c77e7b7d467eb905ff3ca54450bcb78978bef0ebbd93d9d127b64",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guam-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guam",
+      "titles": {
+        "de": "Karte Guam",
+        "en": "Map Guam"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guam-v1.pmtiles",
+      "bytes": 1645728,
+      "sha256": "190331d42ea44152d82a9c238237f73fa09137464dd5c885adc68a3619583f82",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guatemala-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guatemala",
+      "titles": {
+        "de": "Karte Guatemala",
+        "en": "Map Guatemala"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guatemala-v1.pmtiles",
+      "bytes": 58071216,
+      "sha256": "19b0fcbe02bcf6cb5b94e72224f6f1ecf2000ffcd1c2a5ae204a11daed039386",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guernsey-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guernsey",
+      "titles": {
+        "de": "Karte Guernsey",
+        "en": "Map Guernsey"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guernsey-v1.pmtiles",
+      "bytes": 1352238,
+      "sha256": "9e0c82e7839dfb1eb9faf5a3a5ac494dbaed96fc30ba4dbb3829ca2f5415cd9d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guinea-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guinea",
+      "titles": {
+        "de": "Karte Guinea",
+        "en": "Map Guinea"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guinea-v1.pmtiles",
+      "bytes": 83545217,
+      "sha256": "3ecf5656c1e6baaae1d5600ad78ec12dccbed469d6205ad12ba851501126d0a5",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guinea-bissau-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guinea-Bissau",
+      "titles": {
+        "de": "Karte Guinea-Bissau",
+        "en": "Map Guinea-Bissau"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guinea-bissau-v1.pmtiles",
+      "bytes": 14342105,
+      "sha256": "db34be9ad78e7799d86a62424528793c4ddf214e228fb50c2a88b47a34291987",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "guyana-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Guyana",
+      "titles": {
+        "de": "Karte Guyana",
+        "en": "Map Guyana"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/guyana-v1.pmtiles",
+      "bytes": 16438558,
+      "sha256": "4196e32cc9ed8c2e916ad63b3c33a77cbafc1ca64e1edde06d28183314ad37c9",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "haiti-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Haiti",
+      "titles": {
+        "de": "Karte Haiti",
+        "en": "Map Haiti"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/haiti-v1.pmtiles",
+      "bytes": 21802302,
+      "sha256": "34ac2ab12714b7787f764a3f0c0f84ffb32edcd35985d3e918b26623015d9709",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "honduras-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Honduras",
+      "titles": {
+        "de": "Karte Honduras",
+        "en": "Map Honduras"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/honduras-v1.pmtiles",
+      "bytes": 45037353,
+      "sha256": "890c52a00f9a1150d70d14876ef3f0cc283581af36ee33dc707f7370e1cdaad4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "india-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Indien",
+      "titles": {
+        "de": "Karte Indien",
+        "en": "Map India"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/india-v1.pmtiles",
+      "bytes": 1593737655,
+      "sha256": "f37df90bae09eac958237048bff2e168e71e489cdacdb4a3fa331214ce78d023",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "indonesia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Indonesien",
+      "titles": {
+        "de": "Karte Indonesien",
+        "en": "Map Indonesia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/indonesia-v1.pmtiles",
+      "bytes": 703135476,
+      "sha256": "9c12f66611fd5b79ea56779f5746a69d92cffe9c373302c39ae18068d160a0d7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "iraq-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Irak",
+      "titles": {
+        "de": "Karte Irak",
+        "en": "Map Iraq"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/iraq-v1.pmtiles",
+      "bytes": 117795475,
+      "sha256": "4adb5c91befcaeacd7e54f78b954b3ec6f3a1a10a84b06a43d51ab5b9e0f153d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "iran-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Iran",
+      "titles": {
+        "de": "Karte Iran",
+        "en": "Map Iran"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/iran-v1.pmtiles",
+      "bytes": 365956176,
+      "sha256": "b7c7d48456b86ce0edd5a5a290aae6e7df59b7cd860d58101a067bb76a336005",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "ireland-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Irland",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/irland-v1.pmtiles",
-      "bytes": 259632884,
-      "sha256": "03be13f9084114803553008ab5d61b8ba09d738ecc48092ac3e4ee55385e734a",
+      "titles": {
+        "de": "Karte Irland",
+        "en": "Map Ireland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/ireland-v1.pmtiles",
+      "bytes": 221744034,
+      "sha256": "08fb6a5b61520e19016bbd895dc39a01ce032ef688ef0f51bb5d8ecc50d49122",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "island-v1.pmtiles",
+      "id": "iceland-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Island",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/island-v1.pmtiles",
-      "bytes": 152035446,
-      "sha256": "af1bb754dc32ad4892e70f1c78990e58fba78206a786cd95a72b01f15f291dd0",
+      "titles": {
+        "de": "Karte Island",
+        "en": "Map Iceland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/iceland-v1.pmtiles",
+      "bytes": 149068749,
+      "sha256": "10101a9949a36fcd2c19d500261082f12df05c04c765ef0e9bcb280a93e120f4",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "italien-v1.pmtiles",
+      "id": "israel-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Israel",
+      "titles": {
+        "de": "Karte Israel",
+        "en": "Map Israel"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/israel-v1.pmtiles",
+      "bytes": 70505515,
+      "sha256": "8eccd0710ff5c85a4b788114518ce762900cf16c04ea4b431385fecf8eb2f113",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "italy-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Italien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/italien-v1.pmtiles",
-      "bytes": 2278931144,
-      "sha256": "2fecc7209b70dd0fba2ac094993e9e172577f33b2eb903157a2149d9e5560db9",
+      "titles": {
+        "de": "Karte Italien",
+        "en": "Map Italy"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/italy-v1.pmtiles",
+      "bytes": 1305842731,
+      "sha256": "0d8c21119f4203e8afdc934ef7e4fff711eb829c85429e2bd6897521ca6ee05b",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "jamaica-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Jamaika",
+      "titles": {
+        "de": "Karte Jamaika",
+        "en": "Map Jamaica"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/jamaica-v1.pmtiles",
+      "bytes": 13104892,
+      "sha256": "aadfc0d2290bc4772700d3c4080eddc8a161261de925205e69aa8da2495dcc6d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "jan-mayen-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Jan Mayen",
+      "titles": {
+        "de": "Karte Jan Mayen",
+        "en": "Map Jan Mayen"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/jan-mayen-v1.pmtiles",
+      "bytes": 626893,
+      "sha256": "b0d7c651c3b8f620cbf2ec5114324eb2a70e81c157793479ab966c59e089be83",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "japan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Japan",
+      "titles": {
+        "de": "Karte Japan",
+        "en": "Map Japan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/japan-v1.pmtiles",
+      "bytes": 1147885989,
+      "sha256": "623b2fad58e0a27d3127ab372632814afbc713fd697fb4cc26bae1ec6c5f0d9a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "yemen-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Jemen",
+      "titles": {
+        "de": "Karte Jemen",
+        "en": "Map Yemen"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/yemen-v1.pmtiles",
+      "bytes": 71238349,
+      "sha256": "92a8dd225f3320af13a8121ba97bc556bf92ed23692fec97ff6ceb4f5a8c9b59",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "jersey-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Jersey",
+      "titles": {
+        "de": "Karte Jersey",
+        "en": "Map Jersey"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/jersey-v1.pmtiles",
+      "bytes": 1984996,
+      "sha256": "2518da5d4b232ad7c1646d6aa09df383abc9fd488d6a7b3b84df75d1a83f0d99",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "jordan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Jordanien",
+      "titles": {
+        "de": "Karte Jordanien",
+        "en": "Map Jordan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/jordan-v1.pmtiles",
+      "bytes": 27071013,
+      "sha256": "4a9df5c6ac79ed4a790a134022178734f2185a5f38ca26e5c8a7689d0fa28bd1",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cambodia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kambodscha",
+      "titles": {
+        "de": "Karte Kambodscha",
+        "en": "Map Cambodia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cambodia-v1.pmtiles",
+      "bytes": 42862409,
+      "sha256": "238e3c545d4164bb813f4019338e5897a4d7460630cc2dc67c64eb34c4041730",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cameroon-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kamerun",
+      "titles": {
+        "de": "Karte Kamerun",
+        "en": "Map Cameroon"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cameroon-v1.pmtiles",
+      "bytes": 276485501,
+      "sha256": "7c9854d3c8cce8821403f6566f61269a7ef9dd268bee7768b2b4f2af107bb5f0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "canada-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kanada",
+      "titles": {
+        "de": "Karte Kanada",
+        "en": "Map Canada"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/canada-v1.pmtiles",
+      "bytes": 8209696267,
+      "sha256": "6fe4c78c0215165f9c8a9e1874dd7111810e5b194d01837e125c80a533eda466",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cape-verde-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kap Verde",
+      "titles": {
+        "de": "Karte Kap Verde",
+        "en": "Map Cape Verde"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cape-verde-v1.pmtiles",
+      "bytes": 8303277,
+      "sha256": "8dfc2662b71ddc2e1fa3e8efdb62bdca5c7a9a817e3ce861be221e49f49fcaff",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "caribbean-netherlands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Karibische Niederlande",
+      "titles": {
+        "de": "Karte Karibische Niederlande",
+        "en": "Map Caribbean Netherlands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/caribbean-netherlands-v1.pmtiles",
+      "bytes": 1275919,
+      "sha256": "f22f2e2985991f45172a76610e244ae3c765c96e963409bd33c006d4694dc022",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kazakhstan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kasachstan",
+      "titles": {
+        "de": "Karte Kasachstan",
+        "en": "Map Kazakhstan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kazakhstan-v1.pmtiles",
+      "bytes": 343306394,
+      "sha256": "7d30c05e04feaae1366fa562a7eaf7bea47fb2701b442bed498b1cef39e49126",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "qatar-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Katar",
+      "titles": {
+        "de": "Karte Katar",
+        "en": "Map Qatar"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/qatar-v1.pmtiles",
+      "bytes": 13017044,
+      "sha256": "8bbd61947708fe6c9edd46f13bcef0010cca80416e25da8fbcea6952c45aa827",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kenya-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kenia",
+      "titles": {
+        "de": "Karte Kenia",
+        "en": "Map Kenya"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kenya-v1.pmtiles",
+      "bytes": 147248990,
+      "sha256": "5921b7259ff8cd7d7253f7c5336f8799a72808479441d01cc21d13f303d266f3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kyrgyzstan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kirgisistan",
+      "titles": {
+        "de": "Karte Kirgisistan",
+        "en": "Map Kyrgyzstan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kyrgyzstan-v1.pmtiles",
+      "bytes": 65500919,
+      "sha256": "8d715a5bcac2f618809f2226269e2c54b970958da0ea859adb2c15754ab87ba7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kiribati-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kiribati",
+      "titles": {
+        "de": "Karte Kiribati",
+        "en": "Map Kiribati"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kiribati-v1.pmtiles",
+      "bytes": 760290,
+      "sha256": "b467e8d9f446d51e24ee168683068b242eb59260b0eb5e0b329038634bfa862e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kiribati-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kiribati (Ost)",
+      "titles": {
+        "de": "Karte Kiribati (Ost)",
+        "en": "Map Kiribati (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kiribati-ost-v1.pmtiles",
+      "bytes": 988594,
+      "sha256": "be8befe7d2345b52a32d0742c80b8c426fa8dc54159b15c2afb8507217e82560",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kiribati-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kiribati (West)",
+      "titles": {
+        "de": "Karte Kiribati (West)",
+        "en": "Map Kiribati (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kiribati-west-v1.pmtiles",
+      "bytes": 193252,
+      "sha256": "81a5bb1484c667398a972cd46304a293e76a4f5b436fc66e96b3ec13812ca576",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cocos-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kokosinseln",
+      "titles": {
+        "de": "Karte Kokosinseln",
+        "en": "Map Cocos"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cocos-v1.pmtiles",
+      "bytes": 294500,
+      "sha256": "b18e2820a8be2177b2d1d9cc4a54d73fe7eecbbff260161f0f0032248c43deac",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "colombia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kolumbien",
+      "titles": {
+        "de": "Karte Kolumbien",
+        "en": "Map Colombia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/colombia-v1.pmtiles",
+      "bytes": 284271905,
+      "sha256": "a4c7476bf9a915dbf5323aab68c53b113e89090ad31c1f72bca1eeb4799a754d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "comoros-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Komoren",
+      "titles": {
+        "de": "Karte Komoren",
+        "en": "Map Comoros"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/comoros-v1.pmtiles",
+      "bytes": 1944994,
+      "sha256": "f33666efec2ae9db69e7950702c912d109a80a9c0e09e3046fa945f87ad87648",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -305,31 +1779,148 @@
       "id": "kosovo-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Kosovo",
+      "titles": {
+        "de": "Karte Kosovo",
+        "en": "Map Kosovo"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/kosovo-v1.pmtiles",
-      "bytes": 50722498,
-      "sha256": "9e70a7679260b2221d80ffe8295c1cea64132110af6828a41c6c7f4ab3d95d06",
+      "bytes": 28274277,
+      "sha256": "1b9d3718819774aa1a977967e2e182226ba609c14873a09b0cc51b6b7a909986",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "kroatien-v1.pmtiles",
+      "id": "croatia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Kroatien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kroatien-v1.pmtiles",
-      "bytes": 673208455,
-      "sha256": "11c41dff98ab955991afb6caedbb6a80b686aa0ac1c76f8e5f9674296afd34ad",
+      "titles": {
+        "de": "Karte Kroatien",
+        "en": "Map Croatia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/croatia-v1.pmtiles",
+      "bytes": 208365676,
+      "sha256": "d0f3501dc339cdc3a07632f4596fbc9803507a708e73dcd560cf4b0a98f7dfee",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "lettland-v1.pmtiles",
+      "id": "cuba-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kuba",
+      "titles": {
+        "de": "Karte Kuba",
+        "en": "Map Cuba"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cuba-v1.pmtiles",
+      "bytes": 65993941,
+      "sha256": "08adb197cf9706aec9dc2d0118c9fc2c597416cdd88e95ac35558a8afa41071c",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "kuwait-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Kuwait",
+      "titles": {
+        "de": "Karte Kuwait",
+        "en": "Map Kuwait"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/kuwait-v1.pmtiles",
+      "bytes": 9897461,
+      "sha256": "ebde0fec474ad6fc72a39555838b19dffa6f281845f7f820cce7efbce935aec9",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "laos-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Laos",
+      "titles": {
+        "de": "Karte Laos",
+        "en": "Map Laos"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/laos-v1.pmtiles",
+      "bytes": 68450371,
+      "sha256": "d48c32596c0b4904333f8952ac9606f30c9e183364de91580b0d9c14b2a52269",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "lesotho-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Lesotho",
+      "titles": {
+        "de": "Karte Lesotho",
+        "en": "Map Lesotho"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/lesotho-v1.pmtiles",
+      "bytes": 75416188,
+      "sha256": "f0663c9cc23c223c65bab7a74ac01322f6183d819da7a57c07d0017aaff17b1d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "latvia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Lettland",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/lettland-v1.pmtiles",
-      "bytes": 251527541,
-      "sha256": "2c0a5fee1019136221e23b8536a7461bb3371f2e43b899de15e499055bbbf0b7",
+      "titles": {
+        "de": "Karte Lettland",
+        "en": "Map Latvia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/latvia-v1.pmtiles",
+      "bytes": 150139768,
+      "sha256": "3e617ac8da77fdcc2f3341fe6a0e3b369e2362487629f091f8bea96d3cc8174e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "lebanon-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Libanon",
+      "titles": {
+        "de": "Karte Libanon",
+        "en": "Map Lebanon"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/lebanon-v1.pmtiles",
+      "bytes": 29228342,
+      "sha256": "db0ce38ddb7f2aa21b91044e405193eef53090995f726fa0e14291f607aa54e0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "liberia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Liberia",
+      "titles": {
+        "de": "Karte Liberia",
+        "en": "Map Liberia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/liberia-v1.pmtiles",
+      "bytes": 23134483,
+      "sha256": "a8239622932fba120f81fd47785bee4fff3146cf8e13facb4a860554bff0025b",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "libya-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Libyen",
+      "titles": {
+        "de": "Karte Libyen",
+        "en": "Map Libya"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/libya-v1.pmtiles",
+      "bytes": 70367828,
+      "sha256": "6af758ab8c888bbf98ada4e95b7caf77c76bab43407cab50f3c97740058dd731",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -338,31 +1929,118 @@
       "id": "liechtenstein-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Liechtenstein",
+      "titles": {
+        "de": "Karte Liechtenstein",
+        "en": "Map Liechtenstein"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/liechtenstein-v1.pmtiles",
-      "bytes": 8066836,
-      "sha256": "dc075197cad368bddb83a251b416d9869ea608af4861ca448580fa318ac94213",
+      "bytes": 4379671,
+      "sha256": "80acdb84913c14c8db8e389c555abafed6ac7645f8a534aaf61210e4d84f03f9",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "litauen-v1.pmtiles",
+      "id": "lithuania-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Litauen",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/litauen-v1.pmtiles",
-      "bytes": 319935500,
-      "sha256": "448c61d39e24a2ae84d684ca60f92e9f3187ef0c5971d0459ad98ce6e2a80fdb",
+      "titles": {
+        "de": "Karte Litauen",
+        "en": "Map Lithuania"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/lithuania-v1.pmtiles",
+      "bytes": 229323325,
+      "sha256": "f98b305154f5b869ee7078d5ae59beb6bd4cad333dce4a6c6e88cd52206739f1",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "luxemburg-v1.pmtiles",
+      "id": "luxembourg-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Luxemburg",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/luxemburg-v1.pmtiles",
-      "bytes": 56854463,
-      "sha256": "9a2a15e0a391a3ea938c1f3c43fa6656c3eeaf1b3a26c64a0658d1e68c094415",
+      "titles": {
+        "de": "Karte Luxemburg",
+        "en": "Map Luxembourg"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/luxembourg-v1.pmtiles",
+      "bytes": 39659695,
+      "sha256": "b31af95b67dacdd7aef153748d0d104674bebf3a805c2b2c9f248ddbb153d503",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "madagascar-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Madagaskar",
+      "titles": {
+        "de": "Karte Madagaskar",
+        "en": "Map Madagascar"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/madagascar-v1.pmtiles",
+      "bytes": 281850495,
+      "sha256": "636072839c929311e8a3845d8829108695db86fd4201d7ecb8c210f0f823cc52",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "malawi-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Malawi",
+      "titles": {
+        "de": "Karte Malawi",
+        "en": "Map Malawi"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/malawi-v1.pmtiles",
+      "bytes": 59233243,
+      "sha256": "bcc25002535f5902058c9b5fd863cb00927c427aac2f45fe22c5a23fc84aadf4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "malaysia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Malaysia",
+      "titles": {
+        "de": "Karte Malaysia",
+        "en": "Map Malaysia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/malaysia-v1.pmtiles",
+      "bytes": 156804122,
+      "sha256": "93fa87b8784d3d7bc6a36a3b74347d6ccffeb2926e849af804e05359642a0819",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "maldives-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Malediven",
+      "titles": {
+        "de": "Karte Malediven",
+        "en": "Map Maldives"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/maldives-v1.pmtiles",
+      "bytes": 869035,
+      "sha256": "30c4468bb5fb6b03041d21e4efa0b3431b9d45f8f88275777e3ec1fb76ebc4d7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mali-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mali",
+      "titles": {
+        "de": "Karte Mali",
+        "en": "Map Mali"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mali-v1.pmtiles",
+      "bytes": 197929709,
+      "sha256": "19ea0039c310478914e0c2400b6e854dadcfb0ad1bcb9ba84276731a96c73216",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -371,20 +2049,133 @@
       "id": "malta-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Malta",
+      "titles": {
+        "de": "Karte Malta",
+        "en": "Map Malta"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/malta-v1.pmtiles",
-      "bytes": 4258421,
-      "sha256": "47c840851a7b737d3bef7d5bf2fe28b62904a2d480f8a83ba6698ed40f61ed1c",
+      "bytes": 4217013,
+      "sha256": "039108c23d844a7a73ce7a24ebee9cb46d06b65e917beed79759f1c3f4735063",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "moldau-v1.pmtiles",
+      "id": "morocco-v1.pmtiles",
       "kind": "mapRegion",
-      "title": "Karte Moldau",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/moldau-v1.pmtiles",
-      "bytes": 154254947,
-      "sha256": "0bf8bf2cca935db2da5fc90f31426508bc9f08061123859c543736ed3cc3f321",
+      "title": "Karte Marokko",
+      "titles": {
+        "de": "Karte Marokko",
+        "en": "Map Morocco"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/morocco-v1.pmtiles",
+      "bytes": 204706700,
+      "sha256": "e4ce70975f5f1719a072789992c0fc127d0e4e50029196fbd7530f830e53252c",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "marshall-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Marshallinseln",
+      "titles": {
+        "de": "Karte Marshallinseln",
+        "en": "Map Marshall Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/marshall-islands-v1.pmtiles",
+      "bytes": 378702,
+      "sha256": "4ec7571487eaf3b364e3268b1de78c18b9f6edb92f8654e4c925523fc0756300",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "marshall-islands-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Marshallinseln (Ost)",
+      "titles": {
+        "de": "Karte Marshallinseln (Ost)",
+        "en": "Map Marshall Islands (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/marshall-islands-ost-v1.pmtiles",
+      "bytes": 385584,
+      "sha256": "24198d68ed17fddc8a39ba7da27cc180f82af8118f881fc8b15be29bb6dbcdfd",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "martinique-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Martinique",
+      "titles": {
+        "de": "Karte Martinique",
+        "en": "Map Martinique"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/martinique-v1.pmtiles",
+      "bytes": 4526821,
+      "sha256": "807aebf800d63ea22789ce90fa578b57a399e0544d0e0807c57d9324062da177",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mauritania-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mauretanien",
+      "titles": {
+        "de": "Karte Mauretanien",
+        "en": "Map Mauritania"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mauritania-v1.pmtiles",
+      "bytes": 38422962,
+      "sha256": "6a4b8dd7d14e06e80d9d1c83aee616d9880b1a9c7e14fa7b95604cc268d4877d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mauritius-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mauritius",
+      "titles": {
+        "de": "Karte Mauritius",
+        "en": "Map Mauritius"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mauritius-v1.pmtiles",
+      "bytes": 7843431,
+      "sha256": "466a7181bc522ea0b7b829945c01f333a947fb58ed634ef788dc5f7f7df5e4e7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mayotte-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mayotte",
+      "titles": {
+        "de": "Karte Mayotte",
+        "en": "Map Mayotte"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mayotte-v1.pmtiles",
+      "bytes": 3858360,
+      "sha256": "9ab6e65441779d357b38f295a865d3b174fdc5322d2b753051da8f9710fead4e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mexico-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mexiko",
+      "titles": {
+        "de": "Karte Mexiko",
+        "en": "Map Mexico"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mexico-v1.pmtiles",
+      "bytes": 593565223,
+      "sha256": "93b3ffe7b2932b903be9b3cd2e8e9af58fc75bcfd271f802f53b04331a3396e7",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -393,9 +2184,28 @@
       "id": "monaco-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Monaco",
+      "titles": {
+        "de": "Karte Monaco",
+        "en": "Map Monaco"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/monaco-v1.pmtiles",
-      "bytes": 1915031,
-      "sha256": "faf0ec4e78bb17740c90a512bb9b017078ddc3e53258c0d9f24e9fe9bff8cdf1",
+      "bytes": 1873475,
+      "sha256": "d048af65d283ec5bf0e71a1198468625633b29c462c2518cd12e4c3492107ec7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mongolia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mongolei",
+      "titles": {
+        "de": "Karte Mongolei",
+        "en": "Map Mongolia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mongolia-v1.pmtiles",
+      "bytes": 106983796,
+      "sha256": "546d08d3ddad4c4661e6983602fab90a8fad854784924ce0deaeac1fbf1a5ff5",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -404,42 +2214,478 @@
       "id": "montenegro-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Montenegro",
+      "titles": {
+        "de": "Karte Montenegro",
+        "en": "Map Montenegro"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/montenegro-v1.pmtiles",
-      "bytes": 64004279,
-      "sha256": "0d987d04b30d050291d9ad3885dcd567f0df4da0e44ab6545d7813cba481427c",
+      "bytes": 40621959,
+      "sha256": "990794f735271bffdda5fcf0cf3ca5519996a20b771207cd31f0e3f2b9eaab64",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "nordmazedonien-v1.pmtiles",
+      "id": "montserrat-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Montserrat",
+      "titles": {
+        "de": "Karte Montserrat",
+        "en": "Map Montserrat"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/montserrat-v1.pmtiles",
+      "bytes": 666883,
+      "sha256": "cf2719110b36fe81fb9371adf48e540ef67ceae2956e12de98a4e2af3630d323",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "mozambique-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Mosambik",
+      "titles": {
+        "de": "Karte Mosambik",
+        "en": "Map Mozambique"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/mozambique-v1.pmtiles",
+      "bytes": 116633075,
+      "sha256": "037aa188f4b5ef73549dfbd7266794d141b900ffbebbd8b42583ad474526c900",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "myanmar-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Myanmar",
+      "titles": {
+        "de": "Karte Myanmar",
+        "en": "Map Myanmar"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/myanmar-v1.pmtiles",
+      "bytes": 237712270,
+      "sha256": "49b13c6c35eb0cc026e69bc2014a1154ffcac3383f80f9725e71332b87f7c958",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "namibia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Namibia",
+      "titles": {
+        "de": "Karte Namibia",
+        "en": "Map Namibia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/namibia-v1.pmtiles",
+      "bytes": 73894425,
+      "sha256": "ddc29e33b3e982be2b24d2d5ab7aa93b8f346db7c98e8d35d5e60b5ac0a6802e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "nauru-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Nauru",
+      "titles": {
+        "de": "Karte Nauru",
+        "en": "Map Nauru"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/nauru-v1.pmtiles",
+      "bytes": 362853,
+      "sha256": "553dc95eebe773213a405218a2041b586ddfb1d5fb7f2fc3ac2f4e219722adc4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "nepal-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Nepal",
+      "titles": {
+        "de": "Karte Nepal",
+        "en": "Map Nepal"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/nepal-v1.pmtiles",
+      "bytes": 242034839,
+      "sha256": "b30d89c2b9011989e6f32c738551f87903a7213f7c9560e205f9ce6ee8a98c8e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "new-caledonia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Neukaledonien",
+      "titles": {
+        "de": "Karte Neukaledonien",
+        "en": "Map New Caledonia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/new-caledonia-v1.pmtiles",
+      "bytes": 10955398,
+      "sha256": "5da4b56aa60128863fce1e7fd19a2265caa7e396dd0f4923b273e217c426df15",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "new-zealand-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Neuseeland",
+      "titles": {
+        "de": "Karte Neuseeland",
+        "en": "Map New Zealand"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/new-zealand-v1.pmtiles",
+      "bytes": 143523409,
+      "sha256": "1c68e35987db5a1492a31b198373a1c529747e9ab6fa23115a72b68167c2c300",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "new-zealand-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Neuseeland (Ost)",
+      "titles": {
+        "de": "Karte Neuseeland (Ost)",
+        "en": "Map New Zealand (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/new-zealand-ost-v1.pmtiles",
+      "bytes": 164844119,
+      "sha256": "c84ce6ecb46a255a211596aba2f235e2b1f657e7a402dacec26500e18e285ed8",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "new-zealand-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Neuseeland (West)",
+      "titles": {
+        "de": "Karte Neuseeland (West)",
+        "en": "Map New Zealand (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/new-zealand-west-v1.pmtiles",
+      "bytes": 1389147,
+      "sha256": "338bd66f5f31211fb3826c30752e76433136f5b8ba36a8eb0530daf7eace4346",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "nicaragua-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Nicaragua",
+      "titles": {
+        "de": "Karte Nicaragua",
+        "en": "Map Nicaragua"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/nicaragua-v1.pmtiles",
+      "bytes": 63942675,
+      "sha256": "0293158086caf4bfc69204ee7482808f88c78da8f26d8346d3eccf7e63eabbd0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "netherlands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Niederlande",
+      "titles": {
+        "de": "Karte Niederlande",
+        "en": "Map Netherlands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/netherlands-v1.pmtiles",
+      "bytes": 481464955,
+      "sha256": "2c33d2d5165450b2f08058cbabde2fce66bf5ee6db0709c07e2a84eeeed6829e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "niger-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Niger",
+      "titles": {
+        "de": "Karte Niger",
+        "en": "Map Niger"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/niger-v1.pmtiles",
+      "bytes": 83328238,
+      "sha256": "1916f38b62e80c63472d4efadeea88c2b1d8f9dae2d7fe416dbc273cb2cb2c65",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "nigeria-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Nigeria",
+      "titles": {
+        "de": "Karte Nigeria",
+        "en": "Map Nigeria"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/nigeria-v1.pmtiles",
+      "bytes": 308465438,
+      "sha256": "54c838add57402ce3c6daa16aa5719032b8cf73e24d64f6e4471df93d0b18825",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "niue-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Niue",
+      "titles": {
+        "de": "Karte Niue",
+        "en": "Map Niue"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/niue-v1.pmtiles",
+      "bytes": 486276,
+      "sha256": "a00258cdc0dd1c44ad153cfcf4d9c5fef7131afa6d0ef3970497458d34acac4f",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "north-korea-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Nordkorea",
+      "titles": {
+        "de": "Karte Nordkorea",
+        "en": "Map North Korea"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/north-korea-v1.pmtiles",
+      "bytes": 100852718,
+      "sha256": "61600e8b244041056b9716cfc3897b3ad765fa1971b1b8a95150ed4528638d98",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "north-macedonia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Nordmazedonien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/nordmazedonien-v1.pmtiles",
-      "bytes": 57471411,
-      "sha256": "5256edca694d7b7402170c5971e9f86800c0ac5a5c9b569bfa312b4f210933e3",
+      "titles": {
+        "de": "Karte Nordmazedonien",
+        "en": "Map North Macedonia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/north-macedonia-v1.pmtiles",
+      "bytes": 39014948,
+      "sha256": "b9094401c519c7eaf1b6b85de6a898a94905bd018fda059d87543e2e208f5fe3",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "norwegen-v1.pmtiles",
+      "id": "norfolk-island-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Norfolkinsel",
+      "titles": {
+        "de": "Karte Norfolkinsel",
+        "en": "Map Norfolk Island"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/norfolk-island-v1.pmtiles",
+      "bytes": 360115,
+      "sha256": "5f254e16acfc33fbd58f428268db990e5f8ecbdbea9fa84b2248184c7894ce49",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "norway-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Norwegen",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/norwegen-v1.pmtiles",
-      "bytes": 3806627395,
-      "sha256": "d5ea4ab39000d638c07246b3343d618a224013bc1c754e6f1753773cf9066731",
+      "titles": {
+        "de": "Karte Norwegen",
+        "en": "Map Norway"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/norway-v1.pmtiles",
+      "bytes": 1580398376,
+      "sha256": "46d1a700a91c5bc1bef34105e23a57f31f3d9a7f812b0f2d3b93b7cc36e52d91",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "polen-v1.pmtiles",
+      "id": "northern-mariana-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Nördliche Marianen",
+      "titles": {
+        "de": "Karte Nördliche Marianen",
+        "en": "Map Northern Mariana Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/northern-mariana-islands-v1.pmtiles",
+      "bytes": 1123911,
+      "sha256": "b553125e6f5ccb36a671da8f29b1ec571dd1b896ac96fe0f992987d1f9ed0625",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "oman-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Oman",
+      "titles": {
+        "de": "Karte Oman",
+        "en": "Map Oman"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/oman-v1.pmtiles",
+      "bytes": 35868357,
+      "sha256": "bd465b2fb961d4307a1bec6959a3d4dd0e6b2cf263a0617a775283674928a3d3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "east-timor-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Osttimor",
+      "titles": {
+        "de": "Karte Osttimor",
+        "en": "Map East Timor"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/east-timor-v1.pmtiles",
+      "bytes": 9930861,
+      "sha256": "47bcf16d33c47d31b9af1741d942e8d6f38ae0105b037006c036a5e130d48def",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "pakistan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Pakistan",
+      "titles": {
+        "de": "Karte Pakistan",
+        "en": "Map Pakistan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/pakistan-v1.pmtiles",
+      "bytes": 226608027,
+      "sha256": "1bfa6037fcf06a40685c2acd363f7f0cffa9c7cfcb9203f1edebaca9aab332bd",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "palau-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Palau",
+      "titles": {
+        "de": "Karte Palau",
+        "en": "Map Palau"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/palau-v1.pmtiles",
+      "bytes": 1446663,
+      "sha256": "0e5d6911d8cba749198d6dae23d5df7ddfc1bdffd4e7858c52f3cb1bef4724ab",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "panama-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Panama",
+      "titles": {
+        "de": "Karte Panama",
+        "en": "Map Panama"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/panama-v1.pmtiles",
+      "bytes": 36757978,
+      "sha256": "7d3a38d62db14f1ea13a7fb28d7b33e0175275f601bb6c510926f7759a9817fd",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "papua-new-guinea-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Papua-Neuguinea",
+      "titles": {
+        "de": "Karte Papua-Neuguinea",
+        "en": "Map Papua New Guinea"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/papua-new-guinea-v1.pmtiles",
+      "bytes": 73148731,
+      "sha256": "0cd729d1a680590d5607ba522450d148b10f077e923898b064b2ca93aaa00259",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "paraguay-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Paraguay",
+      "titles": {
+        "de": "Karte Paraguay",
+        "en": "Map Paraguay"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/paraguay-v1.pmtiles",
+      "bytes": 90007837,
+      "sha256": "afba43d72867d0cb8f941987d5d5296b561b8107a8bd814c023f9b87657939c7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "peru-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Peru",
+      "titles": {
+        "de": "Karte Peru",
+        "en": "Map Peru"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/peru-v1.pmtiles",
+      "bytes": 247039795,
+      "sha256": "014121cb89fabdf27a5fe09c335e8130a173bd7f3b391550242d2cd56729a5be",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "philippines-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Philippinen",
+      "titles": {
+        "de": "Karte Philippinen",
+        "en": "Map Philippines"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/philippines-v1.pmtiles",
+      "bytes": 277196544,
+      "sha256": "8d6c56a5fa49043b27feadf522e28adab0b009b9d01868fe83a79527184784fa",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "pitcairn-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Pitcairninseln",
+      "titles": {
+        "de": "Karte Pitcairninseln",
+        "en": "Map Pitcairn Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/pitcairn-islands-v1.pmtiles",
+      "bytes": 143429,
+      "sha256": "d07be414dd01d62cd83bd26f847b039fa77394ee69180784531e3022dfb46da5",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "poland-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Polen",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/polen-v1.pmtiles",
-      "bytes": 1979916716,
-      "sha256": "ce4ef02e18511a3cd97adb6818f73f4fefe72be7713ad0e55c1ccaef7dea722b",
+      "titles": {
+        "de": "Karte Polen",
+        "en": "Map Poland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/poland-v1.pmtiles",
+      "bytes": 1404966842,
+      "sha256": "587e4affa0e4e58c4f6f8df08930e74bdb20407f31d6a7d653611df4830222c1",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -448,20 +2694,298 @@
       "id": "portugal-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Portugal",
+      "titles": {
+        "de": "Karte Portugal",
+        "en": "Map Portugal"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/portugal-v1.pmtiles",
-      "bytes": 331736312,
-      "sha256": "056948604bb13e152e9b789f5917732f80000942e190f8c0893ae08935916606",
+      "bytes": 277733992,
+      "sha256": "f0564cf5a444728afee2a76fb42adf6d2c032c6dcd0f04acd5ec49f0e451a43f",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "rumaenien-v1.pmtiles",
+      "id": "walloon-brabant-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Provinz Wallonisch-Brabant",
+      "titles": {
+        "de": "Karte Provinz Wallonisch-Brabant",
+        "en": "Map Walloon Brabant"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/walloon-brabant-v1.pmtiles",
+      "bytes": 337998192,
+      "sha256": "d2095ff341a7f71f70ba5ca1293021a796316b2b6d5d446df1207f569d9d42e3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "puerto-rico-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Puerto Rico",
+      "titles": {
+        "de": "Karte Puerto Rico",
+        "en": "Map Puerto Rico"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/puerto-rico-v1.pmtiles",
+      "bytes": 24497002,
+      "sha256": "8ea6a11c42d623d8c2404345f316dc291dd76eadbc1c44bacddb110c47018a8a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "taiwan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Republik China",
+      "titles": {
+        "de": "Karte Republik China",
+        "en": "Map Taiwan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/taiwan-v1.pmtiles",
+      "bytes": 93928604,
+      "sha256": "de575fed9b4cb1a63835309ae96c42f15213d77573ce2b66a3a1f8c17db7ada2",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "republic-of-the-congo-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Republik Kongo",
+      "titles": {
+        "de": "Karte Republik Kongo",
+        "en": "Map Republic of the Congo"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/republic-of-the-congo-v1.pmtiles",
+      "bytes": 46473955,
+      "sha256": "48c47c70a53a53ed673a8cb9f811938f885ddd011bd63599468c273629bf46e1",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "moldova-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Republik Moldau",
+      "titles": {
+        "de": "Karte Republik Moldau",
+        "en": "Map Moldova"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/moldova-v1.pmtiles",
+      "bytes": 77908649,
+      "sha256": "8fb1a5f66d131761224fed88fd5b7a6f985e7fa3f72daf87c1e263ddc8913d04",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "cyprus-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Republik Zypern",
+      "titles": {
+        "de": "Karte Republik Zypern",
+        "en": "Map Cyprus"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/cyprus-v1.pmtiles",
+      "bytes": 20428940,
+      "sha256": "00fe3dacdc3255219421e3860306db517b8a1389473463b47c3adbe442072322",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "republika-srpska-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Republika Srpska",
+      "titles": {
+        "de": "Karte Republika Srpska",
+        "en": "Map Republika Srpska"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/republika-srpska-v1.pmtiles",
+      "bytes": 189487992,
+      "sha256": "54db9ee45da83bc0d7983036c31080bdc94fdc30a7a825f9390eed03a59e3ff4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "rwanda-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Ruanda",
+      "titles": {
+        "de": "Karte Ruanda",
+        "en": "Map Rwanda"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/rwanda-v1.pmtiles",
+      "bytes": 36409428,
+      "sha256": "cfbb39f480c3d89c49b0bfcbe1e61e2f3b421e701f6c0dd2d132225a0b9730c0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "romania-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Rumänien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/rumaenien-v1.pmtiles",
-      "bytes": 629152593,
-      "sha256": "0d938390ec96db37ef17d893d95eabb2d3bd52a20e91b9f9f179c8f808ef2f8b",
+      "titles": {
+        "de": "Karte Rumänien",
+        "en": "Map Romania"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/romania-v1.pmtiles",
+      "bytes": 383884216,
+      "sha256": "698bcd95461e9e92d6e49438230668c376b4f7cd117f969b2649f21a2210279f",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "russia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Russland",
+      "titles": {
+        "de": "Karte Russland",
+        "en": "Map Russia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/russia-v1.pmtiles",
+      "bytes": 6822843151,
+      "sha256": "71cdc4073ad81649aef13b1d65f1e5efa1f825311e538e7d613017990aefb6b7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "russia-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Russland (Ost)",
+      "titles": {
+        "de": "Karte Russland (Ost)",
+        "en": "Map Russia (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/russia-ost-v1.pmtiles",
+      "bytes": 938955,
+      "sha256": "599863f31a299b9601ae27731d180a41b945c009e536ceec0ab39917992a423d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "russia-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Russland (West)",
+      "titles": {
+        "de": "Karte Russland (West)",
+        "en": "Map Russia (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/russia-west-v1.pmtiles",
+      "bytes": 1946899,
+      "sha256": "344414f2c88d33f55965e6380fca45f0ab3bf57f85d7c65b509a28aa5f684b09",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "r-union-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Réunion",
+      "titles": {
+        "de": "Karte Réunion",
+        "en": "Map Réunion"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/r-union-v1.pmtiles",
+      "bytes": 8303434,
+      "sha256": "610d4cb8514e50a1a4b7515839304c777f2b95ce4da4f760c0b05310887434ac",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-barth-lemy-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Saint-Barthélemy",
+      "titles": {
+        "de": "Karte Saint-Barthélemy",
+        "en": "Map Saint Barthélemy"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-barth-lemy-v1.pmtiles",
+      "bytes": 747999,
+      "sha256": "212776e4d7ece43a3184314434b1c5e485703b60cd1ec770bbc1a3114669fd61",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-martin-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Saint-Martin",
+      "titles": {
+        "de": "Karte Saint-Martin",
+        "en": "Map Saint Martin"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-martin-v1.pmtiles",
+      "bytes": 1132183,
+      "sha256": "69a1469d1c3d97eeccc9772d9b94f93a4f82490bc026644c05af0d4c4e09ac88",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-pierre-and-miquelon-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Saint-Pierre und Miquelon",
+      "titles": {
+        "de": "Karte Saint-Pierre und Miquelon",
+        "en": "Map Saint Pierre and Miquelon"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-pierre-and-miquelon-v1.pmtiles",
+      "bytes": 1993637,
+      "sha256": "ee070a0fd31c7c03bcff37bb5fdd2a80ac08758e625f2e53a8030ff98f107ecd",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "solomon-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Salomonen",
+      "titles": {
+        "de": "Karte Salomonen",
+        "en": "Map Solomon Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/solomon-islands-v1.pmtiles",
+      "bytes": 15657393,
+      "sha256": "cb7b9dc3fc5546a89f35b218395ce6938be6dacec002ce139e3efaa877d04c04",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "zambia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Sambia",
+      "titles": {
+        "de": "Karte Sambia",
+        "en": "Map Zambia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/zambia-v1.pmtiles",
+      "bytes": 140411195,
+      "sha256": "bc63a879605e5296f31b4e2c2810bfd2f9bd3c347c60f0a9c3df09553f94cba0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "samoa-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Samoa (West)",
+      "titles": {
+        "de": "Karte Samoa (West)",
+        "en": "Map Samoa (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/samoa-west-v1.pmtiles",
+      "bytes": 1766977,
+      "sha256": "d328a60d8c8d0d89064164274a05365d2fd8b0c6f14db0823ae8c684464c89ab",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -470,86 +2994,718 @@
       "id": "san-marino-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte San Marino",
+      "titles": {
+        "de": "Karte San Marino",
+        "en": "Map San Marino"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/san-marino-v1.pmtiles",
-      "bytes": 2651094,
-      "sha256": "4268a12a1c9f1fea1ee730afce7b7df4aff28839a59f1f575da556c0c66fac2f",
+      "bytes": 2459765,
+      "sha256": "2b7ab549b4ef7aacc8d17bd0c87071b0d6024c278d478dd597b688e2f647d0b9",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "schweden-v1.pmtiles",
+      "id": "saudi-arabia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Saudi-Arabien",
+      "titles": {
+        "de": "Karte Saudi-Arabien",
+        "en": "Map Saudi Arabia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saudi-arabia-v1.pmtiles",
+      "bytes": 219197119,
+      "sha256": "b7189f45342efffd2449712c6a0d246dbe642767845f91fa0a4b5a75a75fc3d3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "scotland-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Schottland",
+      "titles": {
+        "de": "Karte Schottland",
+        "en": "Map Scotland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/scotland-v1.pmtiles",
+      "bytes": 1274782517,
+      "sha256": "bfb4aa43e0da6f8b82f01f0db697bdb8ab1e5b565cdaac67e5e55c2a025a1cea",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "sweden-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Schweden",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/schweden-v1.pmtiles",
-      "bytes": 2137193116,
-      "sha256": "74dbeabd626fa40424b586ed73d864c7028b6ce41f4592c108f7383253d9ecf4",
+      "titles": {
+        "de": "Karte Schweden",
+        "en": "Map Sweden"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/sweden-v1.pmtiles",
+      "bytes": 1082158602,
+      "sha256": "4678f816a53dace00e83a0a8b0b0f35408056e36e333e26781fbc15a824c506a",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "schweiz-v1.pmtiles",
+      "id": "switzerland-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Schweiz",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/schweiz-v1.pmtiles",
-      "bytes": 492496779,
-      "sha256": "f26e3c0a609d2440d2f5c03487da78b47216dc75ec94b1c0ccb5c5c607c28dba",
+      "titles": {
+        "de": "Karte Schweiz",
+        "en": "Map Switzerland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/switzerland-v1.pmtiles",
+      "bytes": 291942859,
+      "sha256": "5612ba3da742d2e79579d76e4692a4acf5da2e231a37e7f1733edc5c364e58c2",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "serbien-v1.pmtiles",
+      "id": "senegal-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Senegal",
+      "titles": {
+        "de": "Karte Senegal",
+        "en": "Map Senegal"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/senegal-v1.pmtiles",
+      "bytes": 81375147,
+      "sha256": "7f53e5faa350165216518d38afbdae55d0e4b454eb2887d0cdda6509bc54f182",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "serbia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Serbien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/serbien-v1.pmtiles",
-      "bytes": 310650976,
-      "sha256": "01c187817a77a0146365e095c826ff2f618936f941422cf05ed989993b1e1974",
+      "titles": {
+        "de": "Karte Serbien",
+        "en": "Map Serbia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/serbia-v1.pmtiles",
+      "bytes": 174697886,
+      "sha256": "02ed8e9b9892fa0804ca1101b65773c871fbd11d965dc6de8b15da59aa08afb5",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "slowakei-v1.pmtiles",
+      "id": "seychelles-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Seychellen",
+      "titles": {
+        "de": "Karte Seychellen",
+        "en": "Map Seychelles"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/seychelles-v1.pmtiles",
+      "bytes": 1120430,
+      "sha256": "aab35d325f6ba86d0573022f45cbca11b333fe9702e6c08b518086fa24c5755e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "siachen-glacier-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Siachen-Gletscher",
+      "titles": {
+        "de": "Karte Siachen-Gletscher",
+        "en": "Map Siachen Glacier"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/siachen-glacier-v1.pmtiles",
+      "bytes": 1521780,
+      "sha256": "81e89c3d27b57c65571b4999be9800d58c1ef794313ccb7fe38b966125b0b973",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "sierra-leone-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Sierra Leone",
+      "titles": {
+        "de": "Karte Sierra Leone",
+        "en": "Map Sierra Leone"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/sierra-leone-v1.pmtiles",
+      "bytes": 28818365,
+      "sha256": "f6efa5fa12c8f03207a99b5089dc693333af23feab24d6962c4e49ad33243fb2",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "zimbabwe-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Simbabwe",
+      "titles": {
+        "de": "Karte Simbabwe",
+        "en": "Map Zimbabwe"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/zimbabwe-v1.pmtiles",
+      "bytes": 75961346,
+      "sha256": "f0703e9bac4551aabc3586417dd9e9874bc46ee4a776a31b66a9d0fb140273cf",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "singapore-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Singapur",
+      "titles": {
+        "de": "Karte Singapur",
+        "en": "Map Singapore"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/singapore-v1.pmtiles",
+      "bytes": 9556544,
+      "sha256": "ed7e6e34018668bccbe870556a55c1a5fe593a9276fcf946265e5852e8b85a84",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "sint-maarten-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Sint Maarten",
+      "titles": {
+        "de": "Karte Sint Maarten",
+        "en": "Map Sint Maarten"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/sint-maarten-v1.pmtiles",
+      "bytes": 832063,
+      "sha256": "18233af9869960fbaaf2cf7dd13fb34f57a9a000d52f1f9a2bafc11c43d79500",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "slovakia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Slowakei",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/slowakei-v1.pmtiles",
-      "bytes": 381656491,
-      "sha256": "64f020567c41b4f91e04de27d9db14975912d98af63c491ec207ae67c18415a8",
+      "titles": {
+        "de": "Karte Slowakei",
+        "en": "Map Slovakia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/slovakia-v1.pmtiles",
+      "bytes": 215536217,
+      "sha256": "22dde5ad5d540b32f871e07ab6f179cc5dd9f4b65e2f5bbf3c28b3a68e15bb02",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "slowenien-v1.pmtiles",
+      "id": "slovenia-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Slowenien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/slowenien-v1.pmtiles",
-      "bytes": 347495548,
-      "sha256": "8a6bba2b2095e286ed81acbacb8a23ad9c25c572b05d88e74884d19067c62609",
+      "titles": {
+        "de": "Karte Slowenien",
+        "en": "Map Slovenia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/slovenia-v1.pmtiles",
+      "bytes": 244096201,
+      "sha256": "4cefe2529b40d2f4f8072b7dfb4e716cf2a091246f76aa47d04189dbc33d6b8c",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "spanien-v1.pmtiles",
+      "id": "somalia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Somalia",
+      "titles": {
+        "de": "Karte Somalia",
+        "en": "Map Somalia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/somalia-v1.pmtiles",
+      "bytes": 217234121,
+      "sha256": "6f493ae5dd33ebf8269ccce4acc97dffca11fdd82616c5abdfa63b240585e9e9",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "somaliland-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Somaliland",
+      "titles": {
+        "de": "Karte Somaliland",
+        "en": "Map Somaliland"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/somaliland-v1.pmtiles",
+      "bytes": 33431784,
+      "sha256": "007e45bef628f284cb06dc1345f3e81b7ac70e95d359dbd840a068f15dedb010",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "spain-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Spanien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/spanien-v1.pmtiles",
-      "bytes": 1605805985,
-      "sha256": "16c58fa7e10a9a7d7632a26cc79767b611b7602e4c44d2293812c63b7aad1c12",
+      "titles": {
+        "de": "Karte Spanien",
+        "en": "Map Spain"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/spain-v1.pmtiles",
+      "bytes": 1141534022,
+      "sha256": "4ef300699ef981e3d47fb8b6cc4665579150ce6d71f1e961beed49ef91a96a90",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "tschechien-v1.pmtiles",
+      "id": "svalbard-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Spitzbergen",
+      "titles": {
+        "de": "Karte Spitzbergen",
+        "en": "Map Svalbard"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/svalbard-v1.pmtiles",
+      "bytes": 19962458,
+      "sha256": "a3902baceb33ee18bbb210e80d15ec344815c0d3834d82d74598c2872e2c42e0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "sri-lanka-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Sri Lanka",
+      "titles": {
+        "de": "Karte Sri Lanka",
+        "en": "Map Sri Lanka"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/sri-lanka-v1.pmtiles",
+      "bytes": 69227116,
+      "sha256": "5fcf5bbfe8847ad801cbebb0a7ef8bd6f31ed9aec959412c4d07ff576ba3d87f",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-helena-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte St. Helena",
+      "titles": {
+        "de": "Karte St. Helena",
+        "en": "Map Saint Helena"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-helena-v1.pmtiles",
+      "bytes": 834392,
+      "sha256": "8d5ce670d5b5ba404d73b539b5072c14e39517045524243270fd226b707a982a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-kitts-and-nevis-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte St. Kitts und Nevis",
+      "titles": {
+        "de": "Karte St. Kitts und Nevis",
+        "en": "Map Saint Kitts and Nevis"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-kitts-and-nevis-v1.pmtiles",
+      "bytes": 1319878,
+      "sha256": "f8cb8c57ffcf029fc65e18f729c7d8c87ffff6a58e468d46dc3d3e2d393889cc",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-lucia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte St. Lucia",
+      "titles": {
+        "de": "Karte St. Lucia",
+        "en": "Map Saint Lucia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-lucia-v1.pmtiles",
+      "bytes": 2164185,
+      "sha256": "e5b731047f2e06a8500e301be0cc71c9e21586b4d03207dddd9f0c6905ef4cc4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "saint-vincent-and-the-grenadines-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte St. Vincent und die Grenadinen",
+      "titles": {
+        "de": "Karte St. Vincent und die Grenadinen",
+        "en": "Map Saint Vincent and the Grenadines"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/saint-vincent-and-the-grenadines-v1.pmtiles",
+      "bytes": 1171371,
+      "sha256": "e60b4b94e60f33d1d225560923b5aab39a3794d5488b49ca6f4350c77eecfd2a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "sudan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Sudan",
+      "titles": {
+        "de": "Karte Sudan",
+        "en": "Map Sudan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/sudan-v1.pmtiles",
+      "bytes": 166399966,
+      "sha256": "556b30b9448cc53055fd08c05cf4f299335bc285467e63950ac6ebb6355a9071",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "suriname-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Suriname",
+      "titles": {
+        "de": "Karte Suriname",
+        "en": "Map Suriname"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/suriname-v1.pmtiles",
+      "bytes": 25319326,
+      "sha256": "19b7d342350cd01ab4817562fd252738c0b261e7bf9912425079deb78224b2a2",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "syria-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Syrien",
+      "titles": {
+        "de": "Karte Syrien",
+        "en": "Map Syria"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/syria-v1.pmtiles",
+      "bytes": 82296831,
+      "sha256": "b653e9b6a69ad0ba3fc636a57401f7cb2ec1ddabafb69400d78452f2c29aefb7",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "s-o-tom-and-pr-ncipe-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte São Tomé und Príncipe",
+      "titles": {
+        "de": "Karte São Tomé und Príncipe",
+        "en": "Map São Tomé and Príncipe"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/s-o-tom-and-pr-ncipe-v1.pmtiles",
+      "bytes": 1806468,
+      "sha256": "51caaa54f13f01ced99f0f49a0b59ea58a5545cd58709bb2bc44f2b4a7a84e2c",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "south-africa-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Südafrika",
+      "titles": {
+        "de": "Karte Südafrika",
+        "en": "Map South Africa"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/south-africa-v1.pmtiles",
+      "bytes": 354260792,
+      "sha256": "0a5b1c67d1e727748ec20d5cde1855ed12edd70a667fb16b45e3e4dfa71f1aba",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "south-georgia-and-the-south-sandwich-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Südgeorgien und die Südlichen Sandwichinseln",
+      "titles": {
+        "de": "Karte Südgeorgien und die Südlichen Sandwichinseln",
+        "en": "Map South Georgia and the South Sandwich Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/south-georgia-and-the-south-sandwich-islands-v1.pmtiles",
+      "bytes": 3065210,
+      "sha256": "e36f47acafd49c9c36662a91a6821001d2c3362cca9eef45080eb04c80f066a2",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "south-korea-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Südkorea",
+      "titles": {
+        "de": "Karte Südkorea",
+        "en": "Map South Korea"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/south-korea-v1.pmtiles",
+      "bytes": 257892833,
+      "sha256": "0787d1370c819451666c601535a5ca8f68d38e84c56d0b925e03069de72c2f65",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "south-sudan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Südsudan",
+      "titles": {
+        "de": "Karte Südsudan",
+        "en": "Map South Sudan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/south-sudan-v1.pmtiles",
+      "bytes": 80444137,
+      "sha256": "31c655641bebd01c6b54b915f71065218c6a762ad1d2f2bf3269991a780054c0",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "tajikistan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Tadschikistan",
+      "titles": {
+        "de": "Karte Tadschikistan",
+        "en": "Map Tajikistan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/tajikistan-v1.pmtiles",
+      "bytes": 62744110,
+      "sha256": "d85835e2e201121d8157667f334265a2d2b16929e9fb2d51216fed080e4ed6c3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "tanzania-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Tansania",
+      "titles": {
+        "de": "Karte Tansania",
+        "en": "Map Tanzania"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/tanzania-v1.pmtiles",
+      "bytes": 245910401,
+      "sha256": "46d37ab35f025fed1fe08b68c9403b6e89268ee769110fecf39294b3f56a2adb",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "thailand-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Thailand",
+      "titles": {
+        "de": "Karte Thailand",
+        "en": "Map Thailand"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/thailand-v1.pmtiles",
+      "bytes": 311922338,
+      "sha256": "a58ec02b86585dd035ec2428a30aa182e898571a9822fcd5acd6ff06ae9a6598",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "togo-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Togo",
+      "titles": {
+        "de": "Karte Togo",
+        "en": "Map Togo"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/togo-v1.pmtiles",
+      "bytes": 23831231,
+      "sha256": "b7279c00e6ba8d79b583d0c556cf71cdca516f15c17c83ab29422038ebf041dc",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "tonga-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Tonga (West)",
+      "titles": {
+        "de": "Karte Tonga (West)",
+        "en": "Map Tonga (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/tonga-west-v1.pmtiles",
+      "bytes": 2537906,
+      "sha256": "610c7697743a1a99d7b244282640a1f2409b42f341f001752fd6500729e0a44d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "trinidad-and-tobago-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Trinidad und Tobago",
+      "titles": {
+        "de": "Karte Trinidad und Tobago",
+        "en": "Map Trinidad and Tobago"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/trinidad-and-tobago-v1.pmtiles",
+      "bytes": 6502173,
+      "sha256": "b6b365c51a1ad0ac14fcbbcbe67d9c37cc00b189920e30f5807ebf8493a3a63d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "chad-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Tschad",
+      "titles": {
+        "de": "Karte Tschad",
+        "en": "Map Chad"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/chad-v1.pmtiles",
+      "bytes": 106992481,
+      "sha256": "a85f384111ad991ee521b98208657ab9f22858c07f37667b068413547ec659c2",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "czech-republic-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Tschechien",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/tschechien-v1.pmtiles",
-      "bytes": 869067029,
-      "sha256": "1571d4e473ac9d7847025fde6644f234c18ab436dfd44654046f45e37f63d7b6",
+      "titles": {
+        "de": "Karte Tschechien",
+        "en": "Map Czech Republic"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/czech-republic-v1.pmtiles",
+      "bytes": 550252950,
+      "sha256": "79ce57cf6f90130f27a34794b569399e3ab34f042e2dd002a8834c6495568512",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "tunisia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Tunesien",
+      "titles": {
+        "de": "Karte Tunesien",
+        "en": "Map Tunisia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/tunisia-v1.pmtiles",
+      "bytes": 66429220,
+      "sha256": "a04ac871466a04e4e47d252b02bbb31025a57b7889a7f1de9aa63f6412e38ce3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "turkmenistan-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Turkmenistan",
+      "titles": {
+        "de": "Karte Turkmenistan",
+        "en": "Map Turkmenistan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/turkmenistan-v1.pmtiles",
+      "bytes": 37604786,
+      "sha256": "604d3aa8682a12f5f1d490f21bffaac511a38d409e76c38acb35b252383d658d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "turks-and-caicos-islands-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Turks- und Caicosinseln",
+      "titles": {
+        "de": "Karte Turks- und Caicosinseln",
+        "en": "Map Turks and Caicos Islands"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/turks-and-caicos-islands-v1.pmtiles",
+      "bytes": 1194910,
+      "sha256": "b007f43ec83624515e7780d7bcef42b65342f4602058dc0e6aa608a524cf41b8",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "tuvalu-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Tuvalu (Ost)",
+      "titles": {
+        "de": "Karte Tuvalu (Ost)",
+        "en": "Map Tuvalu (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/tuvalu-ost-v1.pmtiles",
+      "bytes": 236145,
+      "sha256": "f604f6f0ce838d63434233d1d53bbe0be940e31aca3a722e6bed22acd6888a60",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "turkey-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Türkei",
+      "titles": {
+        "de": "Karte Türkei",
+        "en": "Map Turkey"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/turkey-v1.pmtiles",
+      "bytes": 671887642,
+      "sha256": "7e682c22d7bd8f7326bd431e8d9a3c2eb9e8c86578af964e5fa27704a9078463",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "turkish-republic-of-northern-cyprus-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Türkische Republik Nordzypern",
+      "titles": {
+        "de": "Karte Türkische Republik Nordzypern",
+        "en": "Map Turkish Republic of Northern Cyprus"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/turkish-republic-of-northern-cyprus-v1.pmtiles",
+      "bytes": 11803802,
+      "sha256": "7db7d00874bc1743cbec70c3e0978b0d63f8e76a12938e697dbe0278e0fb1ac4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "united-nations-buffer-zone-in-cyprus-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte UN-Pufferzone in Zypern",
+      "titles": {
+        "de": "Karte UN-Pufferzone in Zypern",
+        "en": "Map United Nations Buffer Zone in Cyprus"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/united-nations-buffer-zone-in-cyprus-v1.pmtiles",
+      "bytes": 6534390,
+      "sha256": "0234dd4a9a6f3e6c3f60b6f45f93568688ab60b077cf857a5beaa96d34cd8bb4",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "uganda-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Uganda",
+      "titles": {
+        "de": "Karte Uganda",
+        "en": "Map Uganda"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/uganda-v1.pmtiles",
+      "bytes": 132275784,
+      "sha256": "128e2ae1def37eb53c65f290011098720fd3dabc683525f468db91fec32bc718",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
@@ -558,53 +3714,298 @@
       "id": "ukraine-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Ukraine",
+      "titles": {
+        "de": "Karte Ukraine",
+        "en": "Map Ukraine"
+      },
       "url": "https://keepilo.hel1.your-objectstorage.com/karten/ukraine-v1.pmtiles",
-      "bytes": 1906816196,
-      "sha256": "4b956d82e566fbcb449bcf730c96c8bba6b9c41c83ff3948ad37afb6bc15cbec",
+      "bytes": 1011623309,
+      "sha256": "88134eb20b1e309be77447df1421934a54325b3d0412f2a8cf33dc455c926ffa",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "ungarn-v1.pmtiles",
+      "id": "hungary-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Ungarn",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/ungarn-v1.pmtiles",
-      "bytes": 462011375,
-      "sha256": "ee1d03b3a28e002c0681f333084cbef380930622b81ca7d4518ae33ca615ac72",
+      "titles": {
+        "de": "Karte Ungarn",
+        "en": "Map Hungary"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/hungary-v1.pmtiles",
+      "bytes": 246100269,
+      "sha256": "adbbd602c863ce8b654d236eb39c6cff598847df7f0e4addeaa76f0ca4859c76",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "vereinigtes-koenigreich-v1.pmtiles",
+      "id": "uruguay-v1.pmtiles",
       "kind": "mapRegion",
-      "title": "Karte Vereinigtes Königreich",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/vereinigtes-koenigreich-v1.pmtiles",
-      "bytes": 1462031387,
-      "sha256": "31b1a89add83a155f08375113f12759e25c22580105da85d355356803e45040f",
+      "title": "Karte Uruguay",
+      "titles": {
+        "de": "Karte Uruguay",
+        "en": "Map Uruguay"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/uruguay-v1.pmtiles",
+      "bytes": 51068053,
+      "sha256": "ef3735bb24d33074a02e3238ada182b6d153076a4ed1b4ef7dcb0918734e5676",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "zypern-v1.pmtiles",
+      "id": "uzbekistan-v1.pmtiles",
       "kind": "mapRegion",
-      "title": "Karte Zypern",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/zypern-v1.pmtiles",
-      "bytes": 29806745,
-      "sha256": "01216f99514364ee9e03d3250b71bb36d2f63c181babd01052572f7d3f84d5de",
+      "title": "Karte Usbekistan",
+      "titles": {
+        "de": "Karte Usbekistan",
+        "en": "Map Uzbekistan"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/uzbekistan-v1.pmtiles",
+      "bytes": 128078949,
+      "sha256": "7d4a0bedc7586ed151ad3bd554467e513c011893cab5d137743158d0612d5dd7",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
     },
     {
-      "id": "oesterreich-v1.pmtiles",
+      "id": "vanuatu-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Vanuatu",
+      "titles": {
+        "de": "Karte Vanuatu",
+        "en": "Map Vanuatu"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/vanuatu-v1.pmtiles",
+      "bytes": 4505933,
+      "sha256": "a21328339023fa89d1f679259b202df24e19fc7c1a38c51ccd1daf241efe2b81",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "venezuela-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Venezuela",
+      "titles": {
+        "de": "Karte Venezuela",
+        "en": "Map Venezuela"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/venezuela-v1.pmtiles",
+      "bytes": 156642344,
+      "sha256": "7a9ea3d5190fb457025b8d8fbffaa5b3a8a21ee931f4386b91fd342a8cf9051d",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "united-arab-emirates-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Vereinigte Arabische Emirate",
+      "titles": {
+        "de": "Karte Vereinigte Arabische Emirate",
+        "en": "Map United Arab Emirates"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/united-arab-emirates-v1.pmtiles",
+      "bytes": 39086249,
+      "sha256": "0002151339aa9d1352d68ee2949089c5cebc93fe2395af5fea9a2c7cad1a7607",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "united-states-of-america-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Vereinigte Staaten",
+      "titles": {
+        "de": "Karte Vereinigte Staaten",
+        "en": "Map United States of America"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/united-states-of-america-v1.pmtiles",
+      "bytes": 7830213123,
+      "sha256": "41d6a4eb9e854de179204e98f79b9ec04022d700eeb20303b2228ade0f3e7d8b",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "united-states-of-america-ost-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Vereinigte Staaten (Ost)",
+      "titles": {
+        "de": "Karte Vereinigte Staaten (Ost)",
+        "en": "Map United States of America (east)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/united-states-of-america-ost-v1.pmtiles",
+      "bytes": 1851010,
+      "sha256": "ed46adbadda41e9547514d0acce0745db81b2256bde53ed9af66b1782af21706",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "united-states-of-america-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Vereinigte Staaten (West)",
+      "titles": {
+        "de": "Karte Vereinigte Staaten (West)",
+        "en": "Map United States of America (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/united-states-of-america-west-v1.pmtiles",
+      "bytes": 3187722,
+      "sha256": "e1a2fb5b537bc4614d911be0e28c42a541908bd167fc24ef07876452ba8985c3",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "vietnam-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Vietnam",
+      "titles": {
+        "de": "Karte Vietnam",
+        "en": "Map Vietnam"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/vietnam-v1.pmtiles",
+      "bytes": 257123302,
+      "sha256": "929a92ad94ac2fabb10dad29ab6fce1431b2501fa4c71c61bbf299b3f873d8c9",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "people-s-republic-of-china-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Volksrepublik China",
+      "titles": {
+        "de": "Karte Volksrepublik China",
+        "en": "Map People's Republic of China"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/people-s-republic-of-china-v1.pmtiles",
+      "bytes": 2806188190,
+      "sha256": "9cc13170bd74136c8086160be606e234be808b507239ec4cfc369a2bd2ffad46",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "wallis-and-futuna-west-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Wallis und Futuna (West)",
+      "titles": {
+        "de": "Karte Wallis und Futuna (West)",
+        "en": "Map Wallis and Futuna (west)"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/wallis-and-futuna-west-v1.pmtiles",
+      "bytes": 617559,
+      "sha256": "7077583e2de9a2123626adbf301fa8ee497c3e34c89269627bc6b6c44242741a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "christmas-island-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Weihnachtsinsel",
+      "titles": {
+        "de": "Karte Weihnachtsinsel",
+        "en": "Map Christmas Island"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/christmas-island-v1.pmtiles",
+      "bytes": 417449,
+      "sha256": "ece81fee8ddfee210f8f07635a5570fbcd63fc59c9bc41ef8169a485da1ca1fd",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "western-sahara-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Westsahara",
+      "titles": {
+        "de": "Karte Westsahara",
+        "en": "Map Western Sahara"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/western-sahara-v1.pmtiles",
+      "bytes": 4794212,
+      "sha256": "fc1165b2615b5dd828dcce5635bc13f80ac411dc7937c937169519cfdfe69d1f",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "central-african-republic-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Zentralafrikanische Republik",
+      "titles": {
+        "de": "Karte Zentralafrikanische Republik",
+        "en": "Map Central African Republic"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/central-african-republic-v1.pmtiles",
+      "bytes": 208425294,
+      "sha256": "2e66f6d6c8792666db0f049ed83d0886bc5e2b58efb03a8a99105f28a31d2c55",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "egypt-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Ägypten",
+      "titles": {
+        "de": "Karte Ägypten",
+        "en": "Map Egypt"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/egypt-v1.pmtiles",
+      "bytes": 125630269,
+      "sha256": "64da2bc8198c95efcc180910418d6fbd0f81808100160e324a360361b7b88f7e",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "equatorial-guinea-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Äquatorialguinea",
+      "titles": {
+        "de": "Karte Äquatorialguinea",
+        "en": "Map Equatorial Guinea"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/equatorial-guinea-v1.pmtiles",
+      "bytes": 7774073,
+      "sha256": "f7cd83e9398af0771e09b67ddc028992df8b38a7376b216c569e9b770cb0114a",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "ethiopia-v1.pmtiles",
+      "kind": "mapRegion",
+      "title": "Karte Äthiopien",
+      "titles": {
+        "de": "Karte Äthiopien",
+        "en": "Map Ethiopia"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/ethiopia-v1.pmtiles",
+      "bytes": 144003622,
+      "sha256": "a3ae2a451ed272dcaa53a42f4ffcdf9ffcfeaf19db2c81c0631ea05a1e2098a6",
+      "version": "1",
+      "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
+      "license": "Open Database License (ODbL) 1.0"
+    },
+    {
+      "id": "austria-v1.pmtiles",
       "kind": "mapRegion",
       "title": "Karte Österreich",
-      "url": "https://keepilo.hel1.your-objectstorage.com/karten/oesterreich-v1.pmtiles",
-      "bytes": 1055062086,
-      "sha256": "0c0773661a257ad0750e0720c60f66f4e420947c9f51f7edad500334bcf5a47e",
+      "titles": {
+        "de": "Karte Österreich",
+        "en": "Map Austria"
+      },
+      "url": "https://keepilo.hel1.your-objectstorage.com/karten/austria-v1.pmtiles",
+      "bytes": 551276545,
+      "sha256": "6afa3cc0c84e1c2e7ccdb6ab55467d28d8052709023dacb86110961201b6e8e9",
       "version": "1",
       "note": "Offline-Karte bis Zoomstufe 14 · Daten: OpenStreetMap, ODbL",
       "license": "Open Database License (ODbL) 1.0"
