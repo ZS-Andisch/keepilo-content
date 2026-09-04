@@ -104,6 +104,21 @@
       "note": "US Army Survival Manual, kuratiert · 33 Kapitel · englisch"
     },
     {
+      "id": "cookbooks-en-v1.zip",
+      "kind": "documents",
+      "title": "Kochbücher für Krise und Reste (englisch)",
+      "titles": {
+        "de": "Kochbücher für Krise und Reste (englisch)",
+        "en": "Cookbooks for crisis and leftovers (English)"
+      },
+      "url": "https://github.com/ZS-Andisch/keepilo-content/releases/download/cookbooks-v1/cookbooks-en-v1.zip",
+      "bytes": 202595,
+      "sha256": "58fe5e2265aef7e2038722957fe8a8481a3576acd363b21ba550b7d67d557c9c",
+      "version": "1",
+      "note": "Kochkiste, Reste, Rationen · 3 historische Bücher · englisch",
+      "license": "Public Domain (Project Gutenberg)"
+    },
+    {
       "id": "ratgeber-notfallvorsorge.pdf",
       "kind": "documents",
       "title": "Ratgeber Notfallvorsorge (BBK, deutsch)",
