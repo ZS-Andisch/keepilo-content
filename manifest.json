@@ -104,19 +104,64 @@
       "note": "US Army Survival Manual, kuratiert · 33 Kapitel · englisch"
     },
     {
-      "id": "cookbooks-en-v1.zip",
+      "id": "cookbooks-en-v2.zip",
       "kind": "documents",
-      "title": "Kochbücher für Krise und Reste (englisch)",
+      "title": "Kochen ohne Strom: Kochkiste (englisch, 1909)",
       "titles": {
-        "de": "Kochbücher für Krise und Reste (englisch)",
-        "en": "Cookbooks for crisis and leftovers (English)"
+        "de": "Kochen ohne Strom: Kochkiste (englisch, 1909)",
+        "en": "Cooking without power: the haybox (English, 1909)"
       },
-      "url": "https://github.com/ZS-Andisch/keepilo-content/releases/download/cookbooks-v1/cookbooks-en-v1.zip",
-      "bytes": 202595,
-      "sha256": "58fe5e2265aef7e2038722957fe8a8481a3576acd363b21ba550b7d67d557c9c",
-      "version": "1",
-      "note": "Kochkiste, Reste, Rationen · 3 historische Bücher · englisch",
+      "url": "https://github.com/ZS-Andisch/keepilo-content/releases/download/cookbooks-v2/cookbooks-en-v2.zip",
+      "bytes": 110823,
+      "sha256": "31c02c45e2c06613ad24d3217031b99fdc2856165ef963026f692a7093ef3f17",
+      "version": "2",
+      "note": "The Fireless Cook Book, Mitchell 1909 · 250 Rezepte mit Restwärme · englisch",
       "license": "Public Domain (Project Gutenberg)"
+    },
+    {
+      "id": "houston-emergency-cookbook.pdf",
+      "kind": "documents",
+      "title": "Notfall-Kochbuch Houston (englisch)",
+      "titles": {
+        "de": "Notfall-Kochbuch Houston (englisch)",
+        "en": "Houston Emergency Preparedness Cookbook (English)"
+      },
+      "url": "https://www.houstonconsumer.org/media/1496/download",
+      "bytes": 2801300,
+      "sha256": "c8a2f0fdf828c0f17440786c9bbb1a2c23fdb206b9dd823f6f48b585a33497a2",
+      "version": "1",
+      "note": "Houston Health Department, 2014 · Mahlzeiten aus dem Notvorrat · direkt vom Anbieter geladen",
+      "license": "Houston Health Department, öffentliche Publikation"
+    },
+    {
+      "id": "emergency-eats-erie.pdf",
+      "kind": "documents",
+      "title": "Emergency Eats (Erie County, englisch)",
+      "titles": {
+        "de": "Emergency Eats (Erie County, englisch)",
+        "en": "Emergency Eats (Erie County, English)"
+      },
+      "url": "https://www3.erie.gov/fpc/sites/www3.erie.gov.fpc/files/2024-10/emergencyeatscookbookfpc.pdf",
+      "bytes": 16699954,
+      "sha256": "6b3cf1f1ff7d94d8c545c3086edf00fcf7616753897e38082429a7a58c951c25",
+      "version": "1",
+      "note": "Rezepte für Stromausfall, markiert „ohne Erhitzen“ · 2024 · direkt vom Anbieter geladen",
+      "license": "Erie County Food Policy Council, öffentliche Publikation"
+    },
+    {
+      "id": "good-and-cheap.pdf",
+      "kind": "documents",
+      "title": "Good and Cheap (Leanne Brown, englisch)",
+      "titles": {
+        "de": "Good and Cheap (Leanne Brown, englisch)",
+        "en": "Good and Cheap (Leanne Brown, English)"
+      },
+      "url": "https://leannebrown.com/wp-content/uploads/2024/08/good-and-cheap-by-leanne-brown.pdf",
+      "bytes": 8081825,
+      "sha256": "d23f8476365a464ce4639aaddfff7d4ca449031ddd51de2c3de548f1a09bc6a6",
+      "version": "1",
+      "note": "Vorratsküche und Reste, 90 Seiten · direkt von der Autorin geladen",
+      "license": "CC BY-NC-SA 4.0"
     },
     {
       "id": "ratgeber-notfallvorsorge.pdf",
